@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eric Bonds, Author at Virginia Mercury</title>
+	<atom:link href="https://virginiamercury.com/author/eric-bonds/feed/" rel="self" type="application/rss+xml" />
+	<link>https://virginiamercury.com/author/eric-bonds/</link>
+	<description>A new look at the Old Dominion</description>
+	<lastBuildDate>Mon, 02 Dec 2024 10:28:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://virginiamercury.com/wp-content/uploads/2019/10/cropped-virginiamercury-32x32.jpg</url>
+	<title>Eric Bonds, Author at Virginia Mercury</title>
+	<link>https://virginiamercury.com/author/eric-bonds/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Data centers and Virginia’s special kind of denialism</title>
+		<link>https://virginiamercury.com/2024/12/02/data-centers-and-virginias-special-kind-of-denialism/</link>
+		
+		<dc:creator><![CDATA[Eric Bonds]]></dc:creator>
+
+        <dc:contributor>ebonds@umw.edu (Eric Bonds)</dc:contributor>
+
+		<pubDate>Mon, 02 Dec 2024 10:25:12 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Energy + Environment]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[fossil fuels]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=40974</guid>
+
+					<description><![CDATA[The reelection of Donald Trump shows the continued prevalence of climate denialism, which involves a rejection of the scientific consensus that human activity is changing the climate. As in his first term, Trump will no doubt try to hold our country back in the race to slow climate change by phasing out fossil fuels. Unlike [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="767" src="https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-1024x767.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" fetchpriority="high" srcset="https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-1024x767.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-300x225.jpg 300w, https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-768x575.jpg 768w, https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-1536x1150.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-2-of-2-2048x1534.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">A view of the rooftop of a Haymarket, Virginia data center. (Hugh Kenny)</p><p><span style="font-weight: 400;">The reelection of Donald Trump shows the continued prevalence of climate denialism, which involves a rejection of the scientific consensus that human activity is changing the climate. As in his first term, Trump will no doubt try to hold our country back in the race to slow climate change by phasing out fossil fuels.</span></p>
+<p><span style="font-weight: 400;">Unlike Trump’s climate denialism, survey research indicates that we in Virginia largely </span><a href="https://climatecommunication.yale.edu/visualizations-data/ycom-us/" target="_blank"><span style="font-weight: 400;">agree</span></a><span style="font-weight: 400;"> that climate change is happening. And most of us understand that it is caused by our reliance on coal, oil, and natural gas. But we have our own special variety of denialism here in the commonwealth: a denial that there are limits to how much electricity we can produce for data centers without also shattering our commitment to shift away from fossil fuels. Ultimately, a transition to renewable energy will require that we slow or stop the current data center boom in order to get there.</span></p>
+<p><strong>    <h4 class="editorialSubhed">Data center development and growing energy demand</h4>
+
+	</strong></p>
+<p><span style="font-weight: 400;">The name “data center” sounds innocuous, but their need for energy is anything but harmless. Data centers are large warehouses stacked full of electronics that convert energy into data storage and computation, increasingly for artificial intelligence. The </span><a href="https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/" target="_blank"><span style="font-weight: 400;">amount of electricity</span></a><span style="font-weight: 400;"> that data centers need is staggering. Just one data center can use as much power as tens of thousands of households combined.</span></p>
+<p><span style="font-weight: 400;">With at least </span><a href="https://virginiamercury.com/2024/11/19/energy-policymakers-convene-for-virginia-clean-economy-act-summit/"><span style="font-weight: 400;">500 data centers</span></a><span style="font-weight: 400;"> that have been built or permitted in Virginia, along with more in the works, the state has a </span><a href="https://insideclimatenews.org/news/24052024/virginia-data-center-market-electricity-demand/" target="_blank"><span style="font-weight: 400;">higher data center density</span></a><span style="font-weight: 400;"> than anywhere else in the world. Even before the data center boom, a transition away from fossil fuels across the state to 100% renewable energy would be a daunting task. But thanks in large part to data centers, it is now much harder. Virginia is experiencing </span><a href="https://www.vpm.org/news/2024-11-14/meta-google-amazon-dominion-energy-data-centers-virginia-power-demand" target="_blank"><span style="font-weight: 400;">greater demand</span></a><span style="font-weight: 400;"> for power than any time since World War II. Electricity consumption in the state is </span><a href="https://news.dominionenergy.com/2024-10-15-Dominion-Energy-Virginia-releases-comprehensive-long-term-plan-to-meet-growing-power-demand-with-reliable,-affordable-and-increasingly-clean-electricity" target="_blank"><span style="font-weight: 400;">projected to double</span></a><span style="font-weight: 400;"> in the next fifteen years. </span></p>
+<p><strong>    <h4 class="editorialSubhed">The limits of green technology</h4>
+
+	</strong></p>
+<p><span style="font-weight: 400;">This growing energy demand cannot be met while also phasing out fossil fuels. Solar panels are an essential part of the energy transition, but they can’t do it all. For example, just one </span><a href="https://www.datacenterdynamics.com/en/news/cleanarc-to-develop-600mw-campus-in-caroline-county-virginia/" target="_blank"><span style="font-weight: 400;">600 megawatt data center</span></a><span style="font-weight: 400;"> recently approved in Caroline County will use the equivalent of as much electricity as is produced in Spotsylvania County’s </span><a href="https://colonial-materials.com/portfolio/energy/spotsylvania-solar/" target="_blank"><span style="font-weight: 400;">solar farm</span></a><span style="font-weight: 400;">, which covers 3,500 acres of land with solar arrays and is the largest solar development east of the Rocky Mountains.</span></p>
+<p><span style="font-weight: 400;">Wind turbines have tremendous promise for electricity production, but also can’t provide a magical solution for meeting energy demand. For example, Dominion Energy is developing a 176 turbine project off of the coast of Virginia Beach. This project will produce enough electricity to meet the needs of about 600,000 homes, or just a bit more than the energy that will be required to power a single data-center mega project that is currently being developed in </span><a href="https://www.bayjournal.com/news/energy/energy-demands-for-northern-virginia-data-centers-almost-too-big-to-compute/article_d64ab388-2cb7-11ef-a753-4ffcc056f619.html" target="_blank"><span style="font-weight: 400;">Hanover County</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Due to the limits of solar and wind energy in meeting expected energy demand, Dominion Energy and Amazon Web Services — a main developer of data centers in our state — have announced </span><a href="https://www.datacenterdynamics.com/en/news/amazon-signs-deals-to-invest-in-nuclear-smrs-to-power-data-centers/" target="_blank"><span style="font-weight: 400;">plans</span></a><span style="font-weight: 400;"> to build small nuclear power plants as low-carbon sources of energy. But it would take dozens of these new reactors to produce enough electricity for Virginia’s data centers alone. Since nuclear power remains controversial and because many Virginians likely do not want to live next to a nuclear power plant, it is uncertain where they would all be built.</span></p>
+<p><strong>    <h4 class="editorialSubhed">Climate denialism, Virginia style</h4>
+
+	</strong></p>
+<p><span style="font-weight: 400;">Virginia’s style of climate denialism doesn’t dispute that fossil fuels are causing climate change. Instead, denialism in the commonwealth happens when we commit to phasing out fossil fuels but don’t have a plan to get there, and instead approve data center after data center as if there is an unlimited supply of low-carbon electricity to run them all. </span></p>
+<p><span style="font-weight: 400;">Dominion Energy, for instance, says that it is committed to Virginia’s goal of phasing out fossil fuels, even while proposing the development of </span><a href="https://insideclimatenews.org/news/10112023/dominion-peaker-plant-chesterfield-virginia/" target="_blank"><span style="font-weight: 400;">new natural gas power plants</span></a><span style="font-weight: 400;">. Amazon Web Services stresses the importance of achieving carbon neutrality by 2040, even if its CEO </span><a href="https://virginiamercury.com/2024/10/17/amazon-announces-deal-with-dominion-energy-to-develop-a-small-nuclear-reactor/"><span style="font-weight: 400;">admits</span></a><span style="font-weight: 400;"> that he doesn’t know how it will be achieved. And local leaders, like those in my hometown of Fredericksburg, proclaim their commitment to 100% renewable energy goals without a climate plan, while also </span><a href="https://fxbgadvance.substack.com/p/fredericksburg-city-council-passes" target="_blank"><span style="font-weight: 400;">announcing new efforts</span></a><span style="font-weight: 400;"> to attract data center development.</span></p>
+<p><span style="font-weight: 400;">In order to overcome Virginia’s special flavor of climate denialism, we must recognize that there are limits to how much energy we can produce without fueling climate change. This means there is also a limit to how many data centers that can operate as we transition away from fossil fuels. In the interest of protecting our climate, it is time for a moratorium on the approval of new data centers in our state.</span></p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

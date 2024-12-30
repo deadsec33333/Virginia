@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paige Gross, Author at Virginia Mercury</title>
+	<atom:link href="https://virginiamercury.com/author/paige-gross/feed/" rel="self" type="application/rss+xml" />
+	<link>https://virginiamercury.com/author/paige-gross/</link>
+	<description>A new look at the Old Dominion</description>
+	<lastBuildDate>Mon, 30 Dec 2024 10:29:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://virginiamercury.com/wp-content/uploads/2019/10/cropped-virginiamercury-32x32.jpg</url>
+	<title>Paige Gross, Author at Virginia Mercury</title>
+	<link>https://virginiamercury.com/author/paige-gross/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>As ‘smart cities’ tools grow nationwide, so do privacy and ethical concerns</title>
+		<link>https://virginiamercury.com/2024/12/30/as-smart-cities-tools-grow-nationwide-so-do-privacy-and-ethical-concerns/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Mon, 30 Dec 2024 10:25:09 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[automated license plate readers]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[Flock]]></category>
+		<category><![CDATA[Flock camera]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=41630</guid>
+
+					<description><![CDATA[After nearly a week of searching for a suspect in the hit-and-run death of an 81-year-old St. Helena, California woman this summer, police found and arrested a man with the help of license plate reading cameras that registered him near the scene. The police department used information from FLOCK’s automatic license plate reading camera system, which monitors [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" fetchpriority="high" srcset="https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-1024x683.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-300x200.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-768x512.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-1536x1024.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2024/12/2023_02_10_FHU_Colorado_11-scaled-1-2048x1366.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">A LiDAR sensor from technology company Ouster, shown in an intersection in Colorado, uses a laser to create anonymous 3-D models of the people and vehicles at street level. (Photo courtesy of Ouster)</p><p>After nearly a week of searching for a suspect in the hit-and-run death of an 81-year-old St. Helena, California woman this summer, <a href="https://napavalleyregister.com/news/community/star/st-helena-hit-and-run-pedestrian-jackie-rhodes-dominic-carvalho/article_7e65e256-55ba-11ef-a68d-0ffd9fa8a190.html" target="_blank">police found and arrested a man</a> with the help of license plate reading cameras that registered him near the scene.</p>
+<p>The police department used information from FLOCK’s automatic license plate reading camera system, which monitors and records license plate data in a cloud-based database. The company makes cameras, drones, audio detection and software tools used by cities, law enforcement and school systems with the goal of crime detection and faster solve times.</p>
+<blockquote class="wp-embedded-content" data-secret="pYwHOp8oip"><p><a href="https://virginiamercury.com/2024/11/14/virginia-lawmakers-considering-regulating-police-use-of-automated-license-plate-readers/">Virginia lawmakers considering regulating police use of automated license plate readers</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Virginia lawmakers considering regulating police use of automated license plate readers&#8221; &#8212; Virginia Mercury" src="https://virginiamercury.com/2024/11/14/virginia-lawmakers-considering-regulating-police-use-of-automated-license-plate-readers/embed/#?secret=AhjaimlGv8#?secret=pYwHOp8oip" data-secret="pYwHOp8oip" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Using a license plate number to find a suspect isn’t new to crime solving, but finding that license plate in an autonomously-captured and organized data log, rather than by humans looking through security footage or searching in-person, is more novel.</p>
+<p>It’s part of a growing system of “Internet of Things” (IoT) technologies — networks of physical objects that are connected to the internet and can exchange data with other devices or software. These IoT devices are often called “smart cities” devices, because they’re used by states and cities that are aiming to improve services, including making their roads safer and more efficient for drivers and pedestrians.</p>
+<p>People on the roads are likely used to red light and security cameras at intersections, but advancements in cloud technology and artificial intelligence allow transit agencies and cities to collect far more data than ever before, and to use that data in more strategic ways.</p>
+<p>But with increased monitoring, data collection and analysis comes ethical and privacy concerns.</p>
+<p>There’s never been a problem with checking a license plate to see if a car is stolen or otherwise wanted, said Jay Stanley, a senior policy analyst with the American Civil Liberties Union’s Speech, Privacy, and Technology Project said. But when that license plate data is retained for an unknown amount of time and for an undetermined purpose, it could infringe on privacy and civil liberties.</p>
+<p>“As this technology becomes increasingly denser in our communities, and at a certain point you have like three of them on every block, it becomes the equivalent to tracking everybody by using GPS,” Stanley said. “That raises not only policy issues, but also constitutional issues.”</p>
+<p>The residents of St. Helena, in Napa Valley, likely aren’t upset that the technology was used for its intended purpose to help find the perpetrator of a crime, Hari Balakrishnan, a computer science and AI researcher and professor at Massachusetts Institute of Technology, said of the August arrest.</p>
+<p>“I might posit that we should move from what is the data being collected to what is being done with the data?” he said. “By whom and for what purpose?”</p>
+<p><strong>    <h4 class="editorialSubhed">What are smart cities technologies? </h4>
+
+	</strong></p>
+<p>In recent years, cities have begun to use hardware, like cameras and sensors, that record and sort information into databases with the help of AI. They usually do so with a specific objective in mind, like tracking the safety of a pedestrian crosswalk, monitoring speeding in an area or to help traffic flow better through intersections during rush hour.</p>
+<p>The hardware devices can signal to the city’s software to take action, like turn the light green, or record data in a stored area for people to analyze later on. Many of these interconnected  systems are called intelligent transportation systems (ITS), said Nathan Kautz, a senior transportation safety engineer based in Tampa, Florida. Some can even detect traffic accidents and trigger an EMS response, and then help that EMS vehicle get to the scene of an accident faster by greenlighting it through traffic signals.</p>
+<p><a href="https://fdotwww.blob.core.windows.net/sitefinity/docs/default-source/safety/shsp-2021/shsp_mar21.pdf?sfvrsn=5452dad_0" target="_blank">Florida’s Strategic Highway Safety Plan from 2021 </a>identifies monitoring speed as a proven way to reduce traffic fatalities, and outlines that it will use ITS infrastructure as a countermeasure. The technical systems allow for monitoring without the use of police officers stationed throughout the roadways.</p>
+<p>“It allows you to get coverage of that corridor and try to keep speeds at an appropriate level when nobody’s watching, to improve the safety and the survivability at outcomes for say, like for a pedestrian or bicyclist,” Kautz said.</p>
+<p>Balakrishnan has been working in IoT and mobile computing for the last two decades, and founded Cambridge Mobile Telematics about 15 years ago. The Cambridge, Massachusetts-based company gathers data from IoT devices like smartphones, connected vehicles, dash cameras and third-party devices to detect driving behavior.</p>
+<p>The company works with insurance and auto companies, as well as rideshare companies, to promote safe driving by using data obtained by driving behavior to assess risk, safety, claims, and driver improvement programs. Balakrishnan said the company estimates it helped prevent about 80,000 crashes and about 40,000 serious injuries.</p>
+<p>Another form of technology some cities are using is LiDAR, which uses lasers to bounce light off of objects to measure distance. It’s the foundational technology of Ouster, which makes hardware and software, and works with cities on traffic concerns as well as with clients in the security, industrial and automotive industries. The traffic sensors are currently posted at about 250 intersections in California, Florida, Tennessee, Utah and Colorado.</p>
+<p>The technology’s lasers bounce heat off objects, and reflect distance back to the sensor. It uses that data to create 3-D anonymous models of the people and vehicles at street level, the Bay Area company’s VP of Smart Infrastructure Itai Dadon said.</p>
+<p>“You understand depth, you understand scale, you understand position in space. You don’t have to infer all that like we do with cameras,” he said. “And on top of that, you can do it without invading the privacy of either your employees or the community that you’re servicing.”</p>
+<p><strong>    <h4 class="editorialSubhed">Ethical and data privacy concerns </h4>
+
+	</strong></p>
+<p>There are primarily two ways that IoT technologies work — infrastructure or mobile devices. And the factor of whether a user has control over the device is where privacy considerations come into play, Balakrishnan said.</p>
+<p>Cambridge Mobile Telematics’ device, which users voluntarily place in their car and communicate with other IoT devices to track their driving, is an example of a mobile device. It’s similar to a wearable fitness tracker that collects data as you workout or sleep, Balakrishnan said.</p>
+<p>“You’re using it for yourself. And I don’t think anyone reasonably would apply the word ‘surveillance’ to that,” Balakrishnan said. “If you don’t want it, don’t use it.”</p>
+<p>But IoT devices embedded into infrastructure, like cameras or sensors on stop light poles, inductive loops under pavement that detect vehicles at stoplights, or automatic license plate readers, are not something that people opt into.</p>
+<p>“If somebody puts a bunch of cameras on the road and they say that this is for measuring your speeding and sending tickets, okay, there’s warnings, and that’s the law, or that’s the way the rules are,” Balakrishnan said. “But now, if somebody took that data and used it for purposes that was not explicitly intended, then one could say, ‘hey, there’s some surveillance happening.’”</p>
+<p>The use of these connected cameras and traffic monitoring systems are being applied across the country on a case-by-case basis. Some states, like Maine, <a href="https://codes.findlaw.com/me/title-29-a-motor-vehicles/me-rev-st-tit-29-a-sect-2117.html" target="_blank">prohibit traffic cameras</a> from enforcing traffic violations except on toll roads. Others, like Missouri, allow them by law, but the <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/missouri_ae2018_survey.pdf" target="_blank">state supreme court ruled it is unconstitutional </a>to issue traffic violations unless the state can prove the identity of the driver at the time of citation.</p>
+<p>It often comes down to the county or municipality, since there is no federal legislation on data privacy in traffic enforcement.</p>
+<p>“All cities and municipalities are very different and have slightly different problems, but they all want, at the end of the day … the benefits for the community,” Dadon said. “However, sometimes they lack the understanding of what the technology can actually do, and by wanting to do good, sometimes run a little bit fast.”</p>
+<p>That was the case in San Diego, starting in 2016. The city installed 3,200 “smart streetlights” to deter crime and to log data from license plate readers, but citizens grew concerned with privacy, saying the city wouldn’t tell them how the data could be used, and it would be shared with third parties, <a href="https://www.cbs8.com/article/news/investigations/san-diego-police-looks-to-reinstall-cameras-and-license-plate-readers/509-c6f34079-b157-4b4b-bac1-97ba3d4908ef" target="_blank">CBS8 reported last year</a>.</p>
+<p>The police department eventually began using the cameras as a crime-fighting surveillance tool, which led community members to allege that the program was violating their privacy and targeting people of color. The city ended the program shortly after also due to budget concerns, but it <a href="https://www.nbcsandiego.com/news/local/100-smart-streetlight-cameras-installed-san-diego/3443549/" target="_blank">began installing cameras again in 2024</a>.</p>
+<p>A perceived benefit of camera traffic surveillance is that fewer traffic stops or direct interactions with police officers could decrease the number of arrests made of people of color. But the technology hasn’t proven to eliminate racial factors. A <a href="https://www.propublica.org/article/chicagos-race-neutral-traffic-cameras-ticket-black-and-latino-drivers-the-most" target="_blank">ProPublica investigation in 2022</a> found that traffic surveillance programs in New York, Miami, Washington D.C. and Chicago still ticketed people of color and people from lower-income neighborhoods more than white drivers.</p>
+<p>And the systems can’t work toward the benefit of the community if they’re not being used properly. A woman in Detroit is <a href="https://www.freep.com/story/news/local/michigan/detroit/2024/09/16/detroit-police-license-plate-readers-isoke-robinson-car-shooting/75189126007/" target="_blank">suing the police department</a> after she was wrongfully arrested for a drive-by shooting in 2023 where police incorrectly used data from the city’s automatic license plate reader.</p>
+<p>Instead of searching for a reported license plate number in the system, police searched for any plates that belong to white Dodge Chargers, and found one on a camera two miles from the crime scene. The woman they arrested had been recorded driving just blocks from her home, and had no connection to the crime other than the similar make and model of her car.</p>
+<p><strong>    <h4 class="editorialSubhed">IoT and privacy legislation </h4>
+
+	</strong></p>
+<p>Because there’s no federal direction on data privacy of smart cities systems, it will continue to be up to cities, or even municipalities, to make their own rules, said Daniel Weitzner, the founding director of the Internet Policy Research Initiative at MIT.</p>
+<p>Cities often work with private technology companies to establish these intelligent transportation systems, and have a <a href="https://smart-cities-marketplace.ec.europa.eu/news-and-events/news/2023/solution-booklet-public-procurement-smart-cities" target="_blank">procurement bid process</a>. It’s why Balakrishnan said cities or states looking to install these technologies have to clearly outline what data is being collected and who has access to it.</p>
+<p>Balakrishnan and Dadon warn that cities looking to enter contracts with smart city systems companies have to ask the right questions about how and where their data is being stored. There have not been any major cases of data collected by these traffic cameras ending up in third-party systems, they say, but there’s always the possibility that it could if companies and their public sector counterparts are not following the same standards for data storage.</p>
+<p>The way we assess surveillance and privacy in the digital age is “under stress,” Weitzner said. Evolving technologies have made lawmakers have to constantly assess what data privacy rights look like at any given time. Supreme Court decisions, like <a href="https://www.supremecourt.gov/opinions/17pdf/16-402_h315.pdf" target="_blank">Carpenter v. United States</a>, which refined what access to location data from cell phones is allowed without a search warrant, and <a href="https://supreme.justia.com/cases/federal/us/573/373/" target="_blank">Riley v. California</a>, which ruled that the warrantless search and seizure of the digital contents of a cell phone during an arrest is unconstitutional, shows how this field has evolved.</p>
+<p>“What all this translates into is that digital information can be subject to a lot more uses and can be a lot more revealing than the kind of equivalent … analog information, or information that’s available on paper,” Weitzner said.</p>
+<p>So, it may not be concerning to collect license plate data for speeding or traffic violations, but using that data across the board for any other purpose, for an unlimited amount of time, is a lot more sensitive, he added. And until Congress passes a standardization law for the industry, states will have to determine what works best for them, and what actions may be over the line.</p>
+<p>“The underlying conundrum that we have is just that you can string together a lot of innocent, innocuous pieces of data,” Weitzner said. “And get something very valuable and very revealing.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Biden administration leaves ‘foundational’ tech legacy, technologists say</title>
+		<link>https://virginiamercury.com/2024/12/02/biden-administration-leaves-foundational-tech-legacy-technologists-say/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Mon, 02 Dec 2024 10:12:26 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI Bill of Rights]]></category>
+		<category><![CDATA[broadband]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[digital divide]]></category>
+		<category><![CDATA[iden's CHIPS act]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[President Joe Biden]]></category>
+		<category><![CDATA[semiconductor manufacturing]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=41016</guid>
+
+					<description><![CDATA[As he’s poised to leave office next month, President Joe Biden will leave a legacy of “proactive,” “nuanced” and “effective” tech policy strategy behind him, technologists across different sectors told States Newsroom. Biden’s term was bookended by major issues in the tech world. When he took office in early 2021, he was faced with an [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-1024x683.jpeg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" srcset="https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-1024x683.jpeg 1024w, https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-300x200.jpeg 300w, https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-768x512.jpeg 768w, https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-1536x1024.jpeg 1536w, https://virginiamercury.com/wp-content/uploads/2024/11/biden-tech-2048x1366.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">Tech insiders say Biden is leaving a strong foundation for high-tech industry, boosting broadband access, setting a foundation for AI regulation, and encouraging chip manufacturing. (Photo by Rebecca Noble/Getty Images)</p><p>As he’s poised to leave office next month, President Joe Biden will leave a legacy of “proactive,” “nuanced” and “effective” tech policy strategy behind him, technologists across different sectors told States Newsroom.</p>
+<p>Biden’s term was bookended by major issues in the tech world. When he took office in early 2021, he was faced with an economy and workforce that was struggling to deal with the COVID-19 pandemic, and longstanding issues with a digital divide across the country. As he prepares to exit the White House, federal agencies are working to incorporate the principles from the <a href="https://www.whitehouse.gov/ostp/ai-bill-of-rights/" target="_blank">2023 AI Bill of Rights</a>, on evolving technologies that will undoubtedly continue changing American life.</p>
+<p>Though he was unable to get federal regulations on AI passed through Congress, Biden’s goal was to bring tech access to all Americans, while safeguarding against potential harms, the technologists said.</p>
+<p>“I think everything that he does is foundational,” said Suriel Arellano, a longtime consultant and author on digital transformation who’s based in Los Angeles. “So it definitely sets the stage for long term innovation and regulation.”</p>
+    <h4 class="editorialSubhed">The digital divide</h4>
+
+	
+<p>For Arellano, Biden’s attempt to bring internet access to all families stands out as a lasting piece of the president’s legacy. Broadband internet for work, healthcare and education was a part of Biden’s<a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/" target="_blank"> 2021 Bipartisan Infrastructure Deal</a>, especially targeting people in rural areas.</p>
+<p>Biden earmarked $65 billion toward the project, which was dolled out to states and federal departments to establish or improve the physical infrastructure to support internet access. <a href="https://www.commerce.gov/news/blog/2024/09/biden-harris-administration-delivering-promise-connect-everyone-america-reliable" target="_blank">As of September</a>, more than 2.4 million previously unserved homes and businesses have been connected to the internet, and $50 billion has been given to grant programs that support these goals across the states.</p>
+<p>Arellano said he thinks there’s still work to do with the physical broadband infrastructure before that promise is realized — “I think that should have come first,” he said.</p>
+<p>“But I think as a legacy, I think breaching the digital divide is actually one of the strong — maybe not the strongest, but I would say it’s definitely a strong legacy that he leaves,” Arellano said.</p>
+<p><strong>    <h4 class="editorialSubhed">Shaping the U.S. conversation about AI</h4>
+
+	</strong></p>
+<p>During Biden’s presidency, practical and responsible application of artificial intelligence became a major part of the tech conversation. The 2023 AI Bill of Rights created the White House AI Council, the creation of a framework for federal agencies to follow relating to privacy protection and a list of guidelines for securing AI workers, for navigating the effects on the labor market and for ensuring equity in AI use, among others.</p>
+<p>The guidelines put forth by the administration are subtle, and “not likely to be felt by the average consumer,” said Austin-based Alex Shahrestani, an attorney and managing partner at Promise Legal, which specializes in tech and regulatory policy.</p>
+<p>“It was something that’s very light touch and essentially sets up the groundwork to introduce a regulatory framework for AI providers without it being something that they’re really going to push back on,” Shahrestani said.</p>
+<p>In recent months, some federal agencies have released their guidelines called for by the AI Bill of Rights, including <a href="https://www.newsfromthestates.com/article/department-labor-releases-ai-best-practices-employers" target="_blank">the Department of Labor</a>, and <a href="https://www.whitehouse.gov/omb/briefing-room/2024/10/03/fact-sheet-omb-issues-guidance-to-advance-the-responsible-acquisition-of-ai-in-government/" target="_blank">The Office of Management and Budget</a>, which outlines how the government will go about “responsible acquisition” of AI. It may not seem like these guidelines would affect the average consumer, Shahrestani said, but government contractors are likely to be larger companies that already have a significant commercial footprint.</p>
+<p>“It sets up these companies to then follow these procedures in other contexts, so whether that’s B2B or direct-to-consumer applications, that’s like more of a trickle down sort of approach,” he said.</p>
+<p>Sheena Franklin, D.C.-based founder of K’ept Health and previously a lobbyist, said Biden emphasized the ethical use and development of AI, and set a tone of fostering public trust and preventing harm with the AI Bill of Rights.</p>
+<p>Franklin and Shahrestani agreed it’s possible that President-elect Donald Trump could repeal some of Biden’s executive orders on AI, but they see the Bill of Rights as a fairly light approach to regulating it.</p>
+<p>“It was a really nuanced and effective approach,” Shahrestani said. “There’s some inertia building, right? Like a snowball rolling down the hill. We’re early days for the snowball, but it just got started and it will only grow to be a bigger one.”</p>
+<p><strong>    <h4 class="editorialSubhed">The CHIPS act</h4>
+
+	</strong></p>
+<p>Biden’s <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/" target="_blank">CHIPS and Science Act of 2022</a>, which aimed to strengthen domestic semiconductor manufacturing, supply chains and the innovation economy with a $53 billion investment, is a major piece of his legacy, Franklin said. The bill centered on worker and community investments, and prioritized small businesses and underrepresented communities, with a goal of economic growth in the U.S., and especially in communities that needed support.</p>
+<p><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/09/fact-sheet-two-years-after-the-chips-and-science-act-biden-%E2%81%A0harris-administration-celebrates-historic-achievements-in-bringing-semiconductor-supply-chains-home-creating-jobs-supporting-inn/" target="_blank">Two years after the bill was signed</a>, the federal government, in partnership with American companies, has provided funding for semiconductor manufacturing projects that created more than 100,000 jobs and workforce development programs. The U.S. is on track to produce 30% of the world’s semiconductor chips in 2032, up from 10% today.</p>
+<p>“He was really trying to position the U.S. as a global leader when it came to technology, because that industry is going to continue to grow,” Franklin said.</p>
+<p>It’s hard to quantify what the lasting impact of the CHIPS act will be, but one immediate factor is computing, Shahrestani said. The AI models being developed right now have infinite abilities, he said, but the computing power had previously held the industry back.</p>
+<p>“Being able to provide more compute through better chips, and more sophisticated hardware is going to be a big part of what provides, and what is behind the best AI technologies,” Shahrestani said.</p>
+<p><strong>    <h4 class="editorialSubhed">Accountability for Big Tech</h4>
+
+	</strong></p>
+<p>Many in the Big Tech community see Biden’s AI Bill of Rights, and its data privacy inclusions, as well as the Justice Department’s monopoly lawsuits against tech giants <a href="https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets" target="_blank">like Apple</a> and <a href="https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies" target="_blank">Google</a>, as hampering innovation.</p>
+<p>Arellano is optimistic about the technological advances and innovation that the U.S. may see under a less regulation-focused Trump presidency, but he cautions that some regulations may be needed for privacy protections.</p>
+<p>“My concern is always on the public side, you know, putting the dog on a leash, and making sure that our regulations are there in place to protect the people,” he said.</p>
+<p>Franklin predicts that if Biden attempts any last-minute tech policy before he leaves office, it will probably be to pursue further antitrust cases. It would align with his goal of fostering competition between startups and small businesses and reinforce his legacy of safeguarding consumer interests, she said.</p>
+<p>When she considered how to describe Biden’s tech legacy, Franklin said she nearly used the word “strength,” though she said he ultimately could have done a little bit more for tech regulation. But she landed on two words: “thoughtful and proactive.”</p>
+<p>“Meaning, he’s thinking about everybody’s concerns,” Franklin said. “Not just thinking about the Big Tech and not just thinking about the consumers, right? Like there has to be a balance there.”</p>
+        <a href="https://virginiamercury.com/donate/?oa_referrer=midstorybox" style="text-decoration:none;">
+        <div class="donateContainer">
+            <div class="donateTextContainer">
+                <p>YOU MAKE OUR WORK POSSIBLE.</p>
+            </div>
+            <div class="donateButtonContainer">
+                <button>SUPPORT</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How tech affected &#8220;the information environment&#8221; of the 2024 election</title>
+		<link>https://virginiamercury.com/2024/11/11/how-tech-affected-the-information-environment-of-the-2024-election/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Mon, 11 Nov 2024 10:37:29 +0000</pubDate>
+				<category><![CDATA[Election 2024]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[2024 election]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[biotechnology]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=40795</guid>
+
+					<description><![CDATA[Advancements in AI technology, and the changing “information environment” undoubtedly influenced how campaigns operated and voters made decisions in the 2024 election, an elections and democracy expert said. Technologists and election academics warned a few months ago that mis- and disinformation would play an even larger role in 2024 than it did in 2020 and 2016. What [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="700" src="https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717-1024x700.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717-1024x700.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717-300x205.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717-768x525.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717-1536x1050.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2024/11/GettyImages-2182386717.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">Artificial intelligence, social media and a sprawling network of influencers helped spread propaganda and misinformation in the final weeks of the 2024 election campaign, an election technology expert says.(Photo by Melissa Sue Gerrits/Getty Images)</p><p>Advancements in AI technology, and the changing “information environment” undoubtedly influenced how campaigns operated and voters made decisions in the 2024 election, an elections and democracy expert said.</p>
+<p>Technologists and election academics <a href="https://www.newsfromthestates.com/article/ai-will-play-role-election-misinformation-experts-are-trying-fight-back" target="_blank">warned a few months ago</a> that mis- and disinformation would play an even larger role in 2024 than it did in 2020 and 2016. What exactly that disinformation would look like became more clear in the two weeks leading up to the election, said Tim Harper, senior policy analyst for democracy and elections at the Center for Democracy and Technology.</p>
+<p>“I think a lot of folks kind of maybe prematurely claimed that generative AI’s impact was overblown,” Harper said. “And then, you know, in short order, in the last week, we saw several kinds of disinformation campaigns emerge.”</p>
+<p>Harper specifically mentioned the false claims that vice presidential nominee Tim Walz was alleged to have perpetrated <a href="https://www.theguardian.com/us-news/2024/oct/23/tim-walz-russia-disinformation" target="_blank">an act of sexual misconduct</a>, and a deep fake <a href="https://www.nbcnews.com/politics/2024-election/viral-video-ripped-pennsylvania-ballots-fake-russian-made-intelligence-rcna177404" target="_blank">video of election officials ripping up ballots</a>, both of which have been shown to be Russian misinformation campaigns.</p>
+<p>AI also played a role in attempted voter suppression, Harper said, not just by foreign governments, but by domestic parties as well. EagleAI, a database that scrapes public voter data, was being used by a 2,000-person North Carolina group which <a href="https://www.wired.com/story/eagleai-network-suspicious-voter-lists-north-carolina/" target="_blank">aimed to challenge the ballots</a> of “suspicious voters.”</p>
+<p>Emails<a href="https://www.wired.com/story/eagleai-network-suspicious-voter-lists-north-carolina/" target="_blank"> obtained by Wired last month </a>show that voters the group aimed to challenge include “same-day registrants, US service members overseas, or people with homestead exemptions, a home tax exemption for vulnerable individuals, such as elderly or disabled people, in cases where there are anomalies with their registration or address.”</p>
+<p>The group also aimed to target people who voted from a college dorm, people who registered using a PO Box address and people with “inactive” voter status.</p>
+<p>Another shift Harper noted from the 2020 election was a rollback of enforcement of misinformation policies on social media platforms. Many platforms feared being seen as “influencing the election” if they flagged or challenged misinformation content.</p>
+<p>Last year, Facebook and Instagram’s parent company Meta, as well as X <a href="https://www.cnn.com/business/tech/meta-political-ads-2020-election-lies/index.html" target="_blank">began allowing political advertisements</a> that perpetuated election denial of the 2020 election.</p>
+<p>Youtube <a href="https://blog.youtube/inside-youtube/us-election-misinformation-update-2023/" target="_blank">also changed its policy to allow election misinformation</a>, saying “In the current environment, we find that while removing this content does curb some misinformation, it could also have the unintended effect of curtailing political speech without meaningfully reducing the risk of violence or other real-world harm.”</p>
+<p>But there are real-world risks for rampant misinformation, Harper said. Federal investigative agencies have made clear that misinformation narratives that delegitimize past elections <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/" target="_blank">directly contribute</a> to higher risk of political violence.</p>
+<p>Platforms with less-well-established trust and safety teams, such Discord and Twitch also play a role. They experienced their “first rodeo” of mass disinformation this election cycle, Harper said.</p>
+<p>“They were tested, and I think we’re still evaluating how they did at preventing this content,” he said.</p>
+<p>Podcasters and social influencers also increasingly shaped political opinions of their followers this year, often under murky ethical guidelines. Influencers do not follow ethical guidelines and rules for sharing information like journalists do, but Americans <a href="https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/" target="_blank">have increasingly relied on social media</a> for their news.</p>
+<p>There’s also a lack of transparency <a href="https://www.fastcompany.com/91218544/like-seriously-go-vote-influencers-are-getting-paid-to-court-your-vote" target="_blank">between influencers and the political campaigns and candidates </a>they’re speaking about — some have reportedly taken under-the-table payments by campaigns, or have made sponsored content for their followers without disclosing the agreement to viewers.</p>
+<p>The Federal Election Commission decided late last year that while campaigns have to disclose spending to an influencer, <a href="https://www.fec.gov/resources/cms-content/documents/Reg-2013-01-TechMod-Final-Statement-ELW-and-SMB.pdf" target="_blank">influencers do not have to disclose such payments to their audience</a>.</p>
+<p>“In terms of kind of the balkanization of the internet, of the information environment, … I think this election cycle may end up being seen kind of as ‘the influencer election,’” Harper said.</p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Department of Labor releases AI best practices for employers</title>
+		<link>https://virginiamercury.com/2024/10/23/department-of-labor-releases-ai-best-practices-for-employers/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Wed, 23 Oct 2024 09:26:11 +0000</pubDate>
+				<category><![CDATA[Government + Politics]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI bias]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[federal workers]]></category>
+		<category><![CDATA[U.S. Department of Labor]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=40499</guid>
+
+					<description><![CDATA[The U.S. Department of Labor released a list of artificial intelligence best practices for developers and employers this week, aiming to help employers benefit from potential time and cost savings of AI, while protecting workers from discrimination and job displacement. The voluntary guidelines come about a year after President Joe Biden signed an executive order to assess [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-1024x683.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-300x200.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-768x512.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-1536x1024.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2167038978-scaled-1-2048x1366.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">A new best practices guide from the U.S. Department of Labor outlines how companies should develop and use AI and protect their employees while doing so. (Photo by Tierney L. Cross/Getty Images)</p><p>The U.S. Department of Labor released a list of artificial intelligence best practices for developers and employers this week, aiming to help employers benefit from potential time and cost savings of AI, while protecting workers from discrimination and job displacement.</p>
+<p>The voluntary guidelines come about a year after President Joe Biden signed <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" target="_blank">an executive order</a> to assess the innovative potential and risks of AI across government and private sectors. The order directed the creation of the White House AI Council, the creation of a framework for federal agencies to follow relating to privacy protection and a list of guidelines for securing AI talent, for navigating the effects on the labor market and for ensuring equity in AI use, among others.</p>
+<p>“Harnessing AI for good and realizing its myriad benefits requires mitigating its substantial risks,” Biden said of the executive order last year. “This endeavor demands a society-wide effort that includes government, the private sector, academia and civil society.”</p>
+<p>The DOL’s guide, “<a href="https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf" target="_blank">Artificial Intelligence and Worker Well-being: Principles and Best Practices for Developers and Employers</a>” was developed with input from public listening sessions and from workers, unions, researchers, academics, employers and developers. It aims to mitigate risks of discrimination, data breaches and job replacement by AI, while embracing possible innovation and production.</p>
+<p>“Whether AI in the workplace creates harm for workers and deepens inequality or supports workers and unleashes expansive opportunity depends (in large part) on the decisions we make,” DOL Acting Secretary Julie Su said. “The stakes are high.”</p>
+<p>The report shares eight principles and best practices, with a “north star” of centering workers. The guide says workers, especially from underserved communities, should understand and have input in the design, development, testing, training, use and oversight of the AI systems used in their workplaces. This will improve job quality and allow businesses to deliver on their outcomes. Unions should bargain in good faith on the use of AI and electronic monitoring in the workplace, it said.</p>
+<p>Other best practices include ethically developing AI, with training that protects and takes feedback from workers. Organizations should also have a clear governance system to evaluate AI used in the workplace, and they should be transparent about the AI systems they’re using, the DOL said.</p>
+<p>AI systems cannot violate or undermine workers’ rights to organize, or obstruct their health, safety, wage, anti-discrimination and anti-retaliation protections, the department said. Therefore, prior to deployment, employers should audit their AI systems for potential <a href="https://www.newsfromthestates.com/article/ai-takes-helm-decision-making-signs-perpetuating-historic-biases-emerge" target="_blank">impacts of discrimination</a> on the basis of “race, color, national origin, religion, sex, disability, age, genetic information and other protected bases,” and should make those results public.</p>
+<p>The report also outlines how employers can and should help workers with AI. Before implementing an AI tool, employers should consider the impact it will have on job opportunities, and they should be clear about the specific tasks it will perform. Employers that experience productivity gains or increased profits, should consider sharing the benefits with their workers, like through increased wages, improved benefits or training, the DOL said.</p>
+<p>The implementation of AI systems has the potential to displace workers, Su said in her summary. To mitigate this, employers should appropriately train their employees to use these systems, and reallocate workers who are displaced by AI to other jobs within their organization when feasible. Employers should reach out to state and local workforce programs for education and upskilling so their workforce can learn new skills, not be phased out by technology.</p>
+<p>And lastly, employers using AI that collect workers’ data should safeguard that data, should not collect more data than is absolutely necessary and should not share that data outside the business without workers’ freely given consent.</p>
+<p>The guidelines outlined by the DOL are not meant to be “a substitute for existing or future federal or state laws and regulations,” it said, rather a “guiding framework for businesses” that can be customized with feedback from their workers.</p>
+<p>“We should think of AI as a potentially powerful technology for worker well-being, and we should harness our collective human talents to design and use AI with workers as its beneficiaries, not as obstacles to innovation,” Su said.</p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>As AI takes the helm of decision making, signs of perpetuating historic biases emerge</title>
+		<link>https://virginiamercury.com/2024/10/14/as-ai-takes-the-helm-of-decision-making-signs-of-perpetuating-historic-biases-emerge/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Mon, 14 Oct 2024 09:25:22 +0000</pubDate>
+				<category><![CDATA[Housing]]></category>
+		<category><![CDATA[Race]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI bias]]></category>
+		<category><![CDATA[AI discrimination]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Housing discrimination]]></category>
+		<category><![CDATA[mortgage lending bias]]></category>
+		<category><![CDATA[racial bias]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=40391</guid>
+
+					<description><![CDATA[In a recent study evaluating how chatbots make loan suggestions for mortgage applications, researchers at Pennsylvania’s Lehigh University found something stark: there was clear racial bias at play. With 6,000 sample loan applications based on data from the 2022 Home Mortgage Disclosure Act, the chatbots recommended denials for more Black applicants than identical white counterparts. They also [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-1024x683.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-300x200.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-768x512.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-1536x1024.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2024/10/GettyImages-2047952380-scaled-1-2048x1366.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">Studies show that AI systems used to make important decisions such as approval of loan and mortgage applications can perpetuate historical bias and discrimination if not carefully constructed and monitored. (Seksan Mongkhonkhamsao/Getty Images)</p><p>In a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812158" target="_blank">recent study </a>evaluating how chatbots make loan suggestions for mortgage applications, researchers at Pennsylvania’s Lehigh University found something stark: there was clear racial bias at play.</p>
+<p>With 6,000 sample loan applications based on data from the 2022 Home Mortgage Disclosure Act, the chatbots recommended denials for more Black applicants than identical white counterparts. They also recommended Black applicants be given higher interest rates, and labeled Black and Hispanic borrowers as “riskier.”</p>
+<p>White applicants were 8.5% more likely to be approved than Black applicants with the same financial profile. And applicants with “low” credit scores of 640, saw a wider margin — white applicants were approved 95% of the time, while Black applicants were approved less than 80% of the time.</p>
+<p>The experiment aimed to simulate how financial institutions are using AI algorithms, machine learning and large language models to speed up processes like lending and underwriting of loans and mortgages. These “black box” systems, where the algorithm’s inner workings aren’t transparent to users, have the potential to lower operating costs for financial firms and any other industry employing them, said Donald Bowen, an assistant fintech professor at Lehigh and one of the authors of the study.</p>
+<p>But there’s also large potential for flawed training data, programming errors, and historically biased information to affect the outcomes, sometimes in detrimental, life-changing ways.</p>
+<p>“There’s a potential for these systems to know a lot about the people they’re interacting with,” Bowen said. “If there’s a baked-in bias, that could propagate across a bunch of different interactions between customers and a bank.”</p>
+<p><strong>    <h4 class="editorialSubhed">How does AI discriminate in finance?</h4>
+
+	</strong></p>
+<p>Decision-making AI tools and large language models, like the ones in the Lehigh University experiment, are being used across a variety of industries, like healthcare, education, finance and even in the judicial system.</p>
+<p>Most machine learning algorithms follow what’s called classification models, meaning you formally define a problem or a question, and then you feed the algorithm a set of inputs such as a loan applicant’s age, income, education and credit history, Michael Wellman, a computer science professor at the University of Michigan, explained.</p>
+<p>The algorithm spits out a result — approved or not approved. More complex algorithms can assess these factors and deliver more nuanced answers, like a loan approval with a recommended interest rate.</p>
+<blockquote class="wp-embedded-content" data-secret="HdVZUVCS4F"><p><a href="https://virginiamercury.com/2024/02/05/virginia-legislators-should-be-learning-all-they-can-about-ai/">Virginia legislators should be learning all they can about AI</a></p></blockquote>
+<p><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Virginia legislators should be learning all they can about AI&#8221; &#8212; Virginia Mercury" src="https://virginiamercury.com/2024/02/05/virginia-legislators-should-be-learning-all-they-can-about-ai/embed/#?secret=COdvUyJeRx#?secret=HdVZUVCS4F" data-secret="HdVZUVCS4F" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Machine learning advances in recent years have allowed for what’s called deep learning, or construction of big neural networks that can learn from large amounts of data. But if AI’s builders don’t keep objectivity in mind, or rely on data sets that reflect deep-rooted and systemic racism, results will reflect that.</p>
+<p>“If it turns out that you are systematically more often making decisions to deny credit to certain groups of people more than you make those wrong decisions about others, that would be a time that there’s a problem with the algorithm,” Wellman said. “And especially when those groups are groups that are historically disadvantaged.”</p>
+<p>Bowen was initially inspired to pursue the Lehigh University study after a smaller-scale assignment with his students revealed the racial discrimination by the chatbots.</p>
+<p>“We wanted to understand if these models are biased, and if they’re biased in settings where they’re not supposed to be,” Bowen said, since underwriting is a regulated industry that’s not allowed to consider race in decision-making.</p>
+<p>For the official study, Bowen and a research team ran thousands of loan application numbers over several months through different commercial large language models, including OpenAI’s GPT 3.5 Turbo and GPT 4, Anthropic’s Claude 3 Sonnet and Opus and Meta’s Llama 3-8B and 3-70B.</p>
+<p>In one experiment, they included race information on applications and saw the discrepancies in loan approvals and mortgage rates. In other, they instructed the chatbots to “use no bias in making these decisions.” That experiment saw virtually no discrepancies between loan applicants.</p>
+<p>But if race data isn’t collected in modern day lending, and algorithms used by banks are instructed to not consider race, how do people of color end up getting denied more often, or offered worse interest rates? Because much of our modern-day data is influenced by disparate impact, or the influence of systemic racism, Bowen said.</p>
+<p>Though a computer wasn’t given the race of an applicant, a borrower’s credit score, which can be influenced by discrimination in the labor and housing markets, will have an impact on their application. So might their zip code, or the credit scores of other members of their household, all of which could have been influenced by the historic racist practice of redlining, or restricting lending to people in poor and nonwhite neighborhoods.</p>
+<p>Machine learning algorithms aren’t always calculating their conclusions in the way that humans might imagine, Bowen said. The patterns it is learning apply to a variety of scenarios, so it may even be digesting reports about discrimination, for example learning that Black people have historically had worse credit. Therefore, the computer might see signs that a borrower is Black, and deny their loan or offer them a higher interest rate than a white counterpart.</p>
+<p><strong>    <h4 class="editorialSubhed">Other opportunities for discrimination </h4>
+
+	</strong></p>
+<p>Decision making technologies have become ubiquitous in hiring practices over the last several years, as application platforms and internal systems use AI to filter through applications, and pre-screen candidates for hiring managers. Last year, New York City began requiring employers to <a href="https://www.hrdive.com/news/nyc-ai-in-hiring-law-enforcement-begins-july-5/647373/" target="_blank">notify candidates</a> about their use of AI decision-making software.</p>
+<p>By law, the AI tools should be programmed to have no opinion on protected classes like gender, race or age, but some users allege that they’ve been discriminated against by the algorithms anyway. In 2021, the U.S. Equal Employment Opportunity Commission launched an initiative to examine more closely how new and existing technologies change the way employment decisions are made. Last year, the commission settled its first-ever AI discrimination hiring lawsuit.</p>
+<p>The New York federal court case ended <a href="https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit" target="_blank">in a $365,000 settlement</a> when tutoring company iTutorGroup Inc. was alleged to use an AI-powered hiring tool that rejected women applicants over 55 and men over 60. Two hundred applicants received the settlement, and iTutor agreed to adopt anti-discrimination policies and conduct training to ensure compliance with equal employment opportunity laws, <a href="https://news.bloomberglaw.com/daily-labor-report/eeoc-settles-first-of-its-kind-ai-bias-lawsuit-for-365-000" target="_blank">Bloomberg reported</a> at the time.</p>
+<p>Another anti-discrimination lawsuit is pending in California federal court against AI-powered company Workday. Plaintiff Derek Mobley alleges he was passed over for more than 100 jobs that contract with the software<a href="https://www.reuters.com/legal/litigation/workday-must-face-novel-bias-lawsuit-over-ai-screening-software-2024-07-15/" target="_blank"> company because he is Black, older than 40 and has mental health issues, </a>Reuters reported this summer. The suit claims that Workday uses data on a company’s existing workforce to train its software, and the practice doesn’t account for the discrimination that may reflect in future hiring.</p>
+<p>U.S. judicial and court systems have also begun incorporating decision-making algorithms in a handful of operations, like risk assessment analysis of defendants, determinations about pretrial release, diversion, sentencing and probation or parole.</p>
+<p>Though the technologies have been cited in <a href="https://www.cnbc.com/2023/11/01/ai-is-making-its-way-into-the-courtroom-and-legal-process.html" target="_blank">speeding up</a> some of the traditionally lengthy court processes — like for document review and assistance with small claims court filings — experts caution that the technologies are not ready to be the primary or sole evidence in a “consequential outcome.”</p>
+<p>“We worry more about its use in cases where AI systems are subject to pervasive and systemic racial and other biases, e.g., predictive policing, facial recognition, and criminal risk/recidivism assessment,” the co-authors of a paper in <a href="https://judicature.duke.edu/articles/ai-in-the-courts-how-worried-should-we-be/#:~:text=AI's%20uses%20in%20the%20justice,actually%20helping%20to%20decide%20cases." target="_blank">Judicature’s 2024 edition</a> say.</p>
+<p>Utah passed a law earlier this year to combat exactly that. <a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:UT2024000H366&amp;verid=UT2024000H366_20240313_0_E&amp;" target="_blank">HB 366</a>, sponsored by state Rep. Karianne Lisonbee, R-Syracuse, addresses the use of an algorithm or a risk assessment tool score in determinations about pretrial release, diversion, sentencing, probation and parole, saying that these technologies may not be used without human intervention and review.</p>
+<p>Lisonbee told States Newsroom that by design, the technologies provide a limited amount of information to a judge or decision-making officer.</p>
+<p>“We think it’s important that judges and other decision-makers consider all the relevant information about a defendant in order to make the most appropriate decision regarding sentencing, diversion, or the conditions of their release,” Lisonbee said.</p>
+<p>She also brought up concerns about bias, saying the state’s lawmakers don’t currently have full confidence in the “objectivity and reliability” of these tools. They also aren’t sure of the tools’ data privacy settings, which is a priority to Utah residents. These issues combined could put citizens’ trust in the criminal justice system at risk, she said.</p>
+<p>“When evaluating the use of algorithms and risk assessment tools in criminal justice and other settings, it’s important to include strong data integrity and privacy protections, especially for any personal data that is shared with external parties for research or quality control purposes,” Lisonbee said.</p>
+<p><strong>    <h4 class="editorialSubhed">Preventing discriminatory AI</h4>
+
+	</strong></p>
+<p>Some legislators, like Lisonbee, have taken note of these issues of bias, and potential for discrimination. Four states currently have laws aiming to prevent “algorithmic discrimination,” where an AI system can contribute to different treatment of people based on race, ethnicity, sex, religion or disability, among other things. This includes Utah, as well as California (<a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB36" target="_blank">SB 36</a>), Colorado (<a href="https://leg.colorado.gov/bills/sb21-169" target="_blank">SB 21-169</a>), Illinois (<a href="https://www.ilga.gov/legislation/BillStatus.asp?DocNum=53&amp;GAID=16&amp;DocTypeID=HB&amp;LegId=127865&amp;SessionID=110&amp;GA=102" target="_blank">HB 0053</a>).</p>
+<p>Though it’s not specific to discrimination, Congress introduced a bill in late 2023 to amend the Financial Stability Act of 2010 to include federal guidance for the financial industry on the uses of AI. This bill, the <a href="https://www.congress.gov/bill/118th-congress/senate-bill/3554/text" target="_blank">Financial Artificial Intelligence Risk Reduction Act</a> or the “FAIRR Act,” would require the Financial Stability Oversight Council to coordinate with agencies regarding threats to the financial system posed by artificial intelligence, and may regulate how financial institutions can rely on AI.</p>
+<p>Lehigh’s Bowen made it clear he felt there was no going back on these technologies, especially as companies and industries realize their cost-saving potential.</p>
+<p>“These are going to be used by firms,” he said. “So how can they do this in a fair way?”</p>
+<p>Bowen hopes his study can help inform financial and other institutions in deployment of decision-making AI tools. For their experiment, the researchers wrote that it was as simple as using prompt engineering to instruct the chatbots to “make unbiased decisions.” They suggest firms that integrate large language models into their processes do regular audits for bias to refine their tools.</p>
+<p>Bowen and other researchers on the topic stress that more human involvement is needed to use these systems fairly. Though AI can deliver a decision on a court sentencing, mortgage loan, job application, healthcare diagnosis or customer service inquiry, it doesn’t mean they should be operating unchecked.</p>
+<p>University of Michigan’s Wellman told States Newsroom he’s looking for government regulation on these tools, and pointed to <a href="https://www.congress.gov/bill/118th-congress/house-bill/6936/text#:~:text=Introduced%20in%20House%20(01%2F10%2F2024)&amp;text=To%20require%20Federal%20agencies%20to,the%20use%20of%20artificial%20intelligence." target="_blank">H.R. 6936</a>, a bill pending in Congress which would require federal agencies to adopt the Artificial Intelligence Risk Management Framework developed by the National Institute of Standards and Technology. The<a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf" target="_blank"> framework</a> calls out potential for bias, and is designed to improve trustworthiness for organizations that design, develop, use and evaluate AI tools.</p>
+<p>“My hope is that the call for standards … will read through the market, providing tools that companies could use to validate or certify their models at least,” Wellman said. “Which, of course, doesn’t guarantee that they’re perfect in every way or avoid all your potential negatives. But it can … provide basic standard basis for trusting the models.”</p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Budget restrictions, staff issues and AI are threats to states’ cybersecurity</title>
+		<link>https://virginiamercury.com/2024/10/03/budget-restrictions-staff-issues-and-ai-are-threats-to-states-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Thu, 03 Oct 2024 09:19:10 +0000</pubDate>
+				<category><![CDATA[Government + Politics]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=40273</guid>
+
+					<description><![CDATA[Many state chief information and security officers say they don’t have the budget, resources, staff or expertise to feel fully confident in their ability to guard their government networks against cyber attacks, according to the new Deloitte-NASCIO Cybersecurity Study of officials in all 50 states and D.C. “The attack surface is expanding as state leaders’ [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="688" src="https://virginiamercury.com/wp-content/uploads/2024/10/state-cybersecurity.jpeg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/10/state-cybersecurity.jpeg 1024w, https://virginiamercury.com/wp-content/uploads/2024/10/state-cybersecurity-300x202.jpeg 300w, https://virginiamercury.com/wp-content/uploads/2024/10/state-cybersecurity-768x516.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">A new survey of state chief information and security officers finds them better prepared to protect their networks from cyberattacks than four years earlier, but still worried about limited staff and resources. (Bill Hinton/Getty Images)</p><p>Many state chief information and security officers say they don’t have the budget, resources, staff or expertise to feel fully confident in their ability to guard their government networks against cyber attacks, according to the new Deloitte-NASCIO Cybersecurity Study of officials in all 50 states and D.C.</p>
+<p>“The attack surface is expanding as state leaders’ reliance on information becomes increasingly central to the operation of government itself,” said Srini Subramanian, principal of Deloitte &amp; Touche LLP and the company’s global government and public services consulting leader. “And CISOs have an increasingly challenging mission to make the technology infrastructure resilient against ever-increasing cyberthreats.”</p>
+<p>The <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/2024-deloitte-nascio-cybersecurity-study.html" target="_blank" rel="noopener">biennial cybersecurity report,</a> released Monday, outlined where new threats are coming from, and what vulnerabilities these teams have.</p>
+<p>Governments are relying more on servers to store information, or transmit it through the Internet of Things, or connected sensor devices. Infrastructure for systems like transit and power is also heavily reliant on technology, and all of the connected online systems create more opportunities for attack.</p>
+<p>The emergence of AI is also creating new ways for bad actors to exploit vulnerabilities, as it makes phishing scams and audio and visual deepfakes easier.</p>
+<p>Deloitte found encouraging data that showed the role of state chief information and security officer has been prioritized in every state’s government tech team, and that statutes and legislation have been introduced in some states that give CISOs more authority.</p>
+<p>In recent years, CISOs have taken on the vast majority of security management and operations, strategy, governance, risk management and incident response for their state, the report said.</p>
+<p>But despite the growing weight on these roles, some of the CISOs surveyed said they do not have the resources needed to feel confident in their team’s ability to handle old and new cybersecurity threats.</p>
+<p>Nearly 40% said they don’t have enough funds for projects that comply with regulatory or legal requirements, and nearly half said they don’t know what percent of their state’s IT budget is for cybersecurity.</p>
+<p>Talent was another issue, with about half of CISOs saying they lacked cybersecurity staffing, and 31% saying there was an “inadequate availability” of professionals to complete these jobs. The survey does show that CISOs reported better staff competencies in 2024 compared with 2020, though.</p>
+<p>Staffing of CISOs themselves, due to burnout, has been an increasing issue since the pandemic, the report found. Since the 2022 survey, Deloitte noted that nearly half of all states have had turnover in their chief security officers, and the median tenure is now 23 months, down from 30 months in the last survey.</p>
+<p>When it came to generative AI, CISOs seemed to see both the opportunities and risks. Respondents listed generative AI as one of the newest threats to cybersecurity, with 71% saying they believe it poses a “high” threat; 41% of respondents said they don’t have confidence in their team to be able to handle them.</p>
+<blockquote class="wp-embedded-content" data-secret="xXD7wyowWU"><p><a href="https://virginiamercury.com/2024/07/23/states-strike-out-on-their-own-on-ai-privacy-regulation/">States strike out on their own on AI, privacy regulation</a></p></blockquote>
+<p><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;States strike out on their own on AI, privacy regulation&#8221; &#8212; Virginia Mercury" src="https://virginiamercury.com/2024/07/23/states-strike-out-on-their-own-on-ai-privacy-regulation/embed/#?secret=AwfNv8Vsaz#?secret=xXD7wyowWU" data-secret="xXD7wyowWU" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>While they believe AI is a threat, many teams also reported using the technology to improve their security operations. Twenty one states are already using some form of AI, and 22 states will likely begin using it in the next year. <a href="https://www.newsfromthestates.com/article/states-strike-out-their-own-ai-privacy-regulation" target="_blank" rel="noopener">As with state legislation around AI</a>, it’s being looked at on a case-by-case basis.</p>
+<p>One CISO said in the report their team is “in discovery phase with an executive order to study the impact of gen AI on security in our state”; another said they have “established a committee that is reviewing use cases, policies, procedures, and best practices for gen AI.”</p>
+<p>CISOs face these budgetary and talent restrictions while they aim to take on new threats and secure aging technology systems that leave them vulnerable.</p>
+<p>The report laid out some tactics tech departments could use to navigate these challenges, including leaning on government partners, working creatively to boost budgets, diversifying their talent pipeline, continuing the AI policy conversations and promoting the CISOs role in digital transformation of government operations.</p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Where exactly are all the AI jobs?</title>
+		<link>https://virginiamercury.com/2024/08/26/where-exactly-are-all-the-ai-jobs/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Mon, 26 Aug 2024 09:23:35 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI jobs]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chatGPT]]></category>
+		<category><![CDATA[engineering]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[information technology]]></category>
+		<category><![CDATA[large language modeling]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=39762</guid>
+
+					<description><![CDATA[The desire for artificial intelligence skills in new hires has exploded over the last five years, and continues to be a priority for hiring managers across nearly every industry, data from Stanford University’s annual AI Index Report found.  In 2023, 1.6% of all United States-based jobs required AI skills, a slight dip from the 2% [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="681" src="https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen.png" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen.png 1024w, https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen-300x200.png 300w, https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen-768x511.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">The welcome screen for the OpenAI “ChatGPT” app is displayed on a laptop screen in a photo illustration. In the absence of federal action, states are increasingly striking out on their own to regulate artificial intelligence and other automated systems. (Leon Neal/Getty Images)</p><p><span style="font-weight: 400;">The desire for artificial intelligence skills in new hires has exploded over the last five years, and continues to be a priority for hiring managers across nearly every industry, data from Stanford University’s annual </span><a href="https://aiindex.stanford.edu/report/" target="_blank"><span style="font-weight: 400;">AI Index Report</span></a><span style="font-weight: 400;"> found. </span></p>
+<p><span style="font-weight: 400;">In 2023, 1.6% of all United States-based jobs required AI skills, a slight dip from the 2% posted in 2022. The decrease comes after many years of growing interest in artificial intelligence, and is likely attributed to hiring slowdowns, freezes or layoffs at major tech companies like </span><a href="https://retailwire.com/blog/amazon-layoffs-microsoft-layoffs/" target="_blank"><span style="font-weight: 400;">Amazon</span></a><span style="font-weight: 400;">, </span><a href="https://www.reuters.com/business/deloitte-cut-1200-jobs-us-ft-2023-04-21/" target="_blank"><span style="font-weight: 400;">Deloitte</span></a><span style="font-weight: 400;"> and </span><a href="https://www.forbes.com/sites/jackkelly/2023/10/24/wall-street-has-been-quietly-cutting-20000-jobs-in-2023/" target="_blank"><span style="font-weight: 400;">Capital One</span></a><span style="font-weight: 400;"> in 2023, the report said. </span></p>
+<p><span style="font-weight: 400;">The numbers are still greatly up from just a few years ago, and in 2023, thousands of jobs across every industry required AI skills. </span></p>
+<p><span style="font-weight: 400;">What do those AI jobs look like? And where are they based, exactly? </span></p>
+<p><span style="font-weight: 400;">Generative AI skills, or the ability to build algorithms that produce text, images or other data when prompted, were sought after most, with nearly 60% of AI-related jobs requiring those skills. Large language modeling, or building technology that can generate and translate text, was second in demand, with 18% of AI jobs citing the need for those skills. </span></p>
+<p><span style="font-weight: 400;">Those skills were followed by ChatGPT knowledge, prompt engineering, or training AI, and two other specific machine learning skills. </span></p>
+<p><span style="font-weight: 400;">The industries that require these skills run the gamut — the information industry ranked first with 4.63% of jobs while professional, scientific and technical services came in second with 3.33%. The financial and insurance industries followed with 2.94%, and manufacturing came in fourth with 2.48%. </span></p>
+<p><span style="font-weight: 400;">Public administration jobs, education jobs, management and utilities jobs all sought AI skills in 1- 2% of their open roles, while agriculture, mining, wholesale trade, real estate, transportation, warehousing, retail trade and waste management sought AI skills in 0.4-0.85% of their jobs. </span></p>
+<p><span style="font-weight: 400;">Though AI jobs are concentrated in some areas of the country, nearly every U.S. state had thousands of AI-specific jobs in 2023, the report found. </span></p>
+<p><span style="font-weight: 400;">California — home to Silicon Valley — had 15.3%, or 70,630 of the country’s AI-related jobs posted in 2023. It was followed by Texas at 7.9%, or 36,413 jobs. Virginia was third, with 5.3%, or 24,417 of AI jobs.</span></p>
+<p><span style="font-weight: 400;">Based on population, Washington state had the highest percentage of people in AI jobs, with California in second, and New York in third. </span></p>
+<p><span style="font-weight: 400;">Montana, Wyoming and West Virginia were the only states with fewer than 1,000 open roles requiring AI, but because of population sizes, AI jobs still made up 0.75%, 0.95% and 0.46% of all of the state’s open roles last year. </span></p>
+<p><span style="font-weight: 400;">Though the number of jobs dipped from 2022 to 2023, the adoption of AI technologies across business operations has not. In 2017, 20% of businesses reported that they had begun using AI for at least one function of their work. In 2022, 50% of businesses said they had, and that number reached 55% in 2023. </span></p>
+<p><span style="font-weight: 400;">For those that have incorporated AI tools into their businesses, it’s making their workers more productive, the report found. The report said studies have shown that AI tools have allowed workers to complete tasks more quickly and have improved the quality of their work. The research suggested that AI could be also capable of increasings workers&#8217; skills — called upskilling— the report found.</span></p>
+<p><span style="font-weight: 400;">The report acknowledges that with all the technological advances that the AI industry has seen in the last five years, there are still many unknowns. The U.S. is still awaiting federal AI legislation, while </span><a href="https://www.newsfromthestates.com/article/states-strike-out-their-own-ai-privacy-regulation" target="_blank"><span style="font-weight: 400;">states make their own regulations</span></a><span style="font-weight: 400;"> and laws. </span></p>
+<p><span style="font-weight: 400;">The Stanford report predicts two futures for the trajectory of the technology — one in which the technology continues to develop and increase productivity, but there&#8217;s a possibility that it&#8217;s used for “good and bad uses.” In another future, without proper research and development, the adoption of AI technologies could be constrained, researchers said. </span></p>
+<p><span style="font-weight: 400;">“They are stepping in to encourage the upside,” the report said of government bodies. “Such as funding university R&amp;D and incentivizing private investment. Governments are also aiming to manage the potential downsides, such as impacts on employment, privacy concerns, misinformation, and intellectual property rights.”</span></p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI will play a role in election misinformation. Experts are trying to fight back.</title>
+		<link>https://virginiamercury.com/2024/08/20/ai-will-play-a-role-in-election-misinformation-experts-are-trying-to-fight-back/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Tue, 20 Aug 2024 09:15:01 +0000</pubDate>
+				<category><![CDATA[Election 2024]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chatGPT]]></category>
+		<category><![CDATA[misinformation]]></category>
+		<category><![CDATA[Open AI]]></category>
+		<category><![CDATA[Protect Elections from Deceptive AI Act]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=39697</guid>
+
+					<description><![CDATA[In June, amid a bitterly contested Republican gubernatorial primary race, a short video began circulating on social media showing Utah Gov. Spencer Cox purportedly admitting to fraudulent collection of ballot signatures. The governor, however, never said any such thing and courts have upheld his election victory. The false video was part of a growing wave [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/08/AI-photo-for-Aug-17-2024-story-1536x1025-1-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/08/AI-photo-for-Aug-17-2024-story-1536x1025-1-1024x683.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/08/AI-photo-for-Aug-17-2024-story-1536x1025-1-300x200.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/08/AI-photo-for-Aug-17-2024-story-1536x1025-1-768x513.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/08/AI-photo-for-Aug-17-2024-story-1536x1025-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">The rapid advancement of artificial intelligence technology has made it easier to create believable but totally fake videos and images and spread misinformation about elections, experts say. (Tero Vesalainen/Getty Images)</p><p>In June, amid a bitterly contested Republican gubernatorial primary race, a short video began circulating on social media showing <a href="https://www.abc4.com/news/politics/deepfake-video-utah-elections/" target="_blank">Utah Gov. Spencer Cox</a> purportedly admitting to fraudulent collection of ballot signatures.</p>
+<p>The governor, however, never said any such thing and <a href="https://utahnewsdispatch.com/2024/08/13/utah-supreme-court-denies-phil-lyman-demand-to-annul-election-results/" target="_blank">courts have upheld his election victory</a>.</p>
+<p>The false video was part of a growing wave of election-related content created by artificial intelligence. At least some of that content, experts say, is false, misleading or simply designed to provoke viewers.</p>
+<p>AI-created likenesses, often called “deepfakes,” have increasingly become a point of concern for those battling misinformation during election seasons. Creating deepfakes used to take a team of skilled technologists with time and money, but recent advances and accessibility in AI technology have meant that nearly anyone can create convincing fake content.</p>
+<p>“Now we can supercharge the speed and the frequency and the persuasiveness of existing misinformation and disinformation narratives,” Tim Harper, senior policy analyst for democracy and elections at the Center for Democracy and Technology, said.</p>
+<p>AI has advanced remarkably since just the last presidential election in 2020, Harper said, noting that OpenAI’s release of ChatGPT in November 2022 brought accessible AI to the masses.</p>
+<p><a href="https://www.statista.com/topics/12221/global-elections-in-2024/" target="_blank">About half</a> of the world’s population lives in countries that are holding elections this year. And the question isn’t really if AI will play a role in misinformation, Harper said, but rather how much of a role it will play.</p>
+    <h4 class="editorialSubhed">How can AI be used to spread misinformation?</h4>
+
+	
+<p>Though it is often intentional, misinformation caused by artificial intelligence can sometimes be accidental, due to flaws or blindspots baked into a tool’s algorithm. AI chatbots search for information in the databases they have access to, so if that information is wrong, or outdated, it can easily produce wrong answers.</p>
+<p><a href="https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/" target="_blank">OpenAI said in May</a> that it would be working to provide more transparency about its AI tools during this election year, and the company endorsed the bipartisan <a href="https://www.govtrack.us/congress/bills/118/s2770/text/is" target="_blank">Protect Elections from Deceptive AI Act</a>, which is pending in Congress.</p>
+<p>“We want to make sure that our AI systems are built, deployed, and used safely,” the company said in the May announcement. “Like any new technology, these tools come with benefits and challenges. They are also unprecedented, and we will keep evolving our approach as we learn more about how our tools are used.”</p>
+<p>Poorly regulated AI systems can lead to misinformation. Elon Musk was recently called upon <a href="https://washingtonstatestandard.com/2024/08/05/a-chatbot-spread-falsehood-about-wa-elections-the-secretary-of-state-wants-it-fixed/" target="_blank">by several secretaries of state</a> after his AI search assistant Grok, built for social media platform X, falsely told users Vice President Kamala Harris was ineligible to appear on the presidential ballot in nine states because the ballot deadline had passed. The information stayed on the platform, and was seen by millions, for more than a week before it was corrected.</p>
+<p>“As tens of millions of voters in the U.S. seek basic information about voting in this major election year, X has the responsibility to ensure all voters using your platform have access to guidance that reflects true and accurate information about their constitutional right to vote,” reads the letter signed by the secretaries of state of Washington, Michigan, Pennsylvania, Minnesota and New Mexico.</p>
+<p>Generative AI impersonations also pose a new risk to the spread of misinformation.  In addition to the fake video of Cox in Utah, a deepfake video <a href="https://www.forbes.com/sites/petersuciu/2023/09/02/there-is-now-a-deep-fake-video-of-ron-desantis-dropping-out-of-the-2024-race/" target="_blank">of Florida Gov. Ron DeSantis</a> falsely showed him dropping out of the 2024 presidential race.</p>
+<p>Some misinformation campaigns happen on huge scales like these, but many others are more localized, targeted campaigns. For instance, bad actors may imitate the online presence of a neighborhood political organizer, or send AI-generated text messages to listservs in certain cities. Language minority communities have been harder to reach in the past, Harper said, but generative AI has made it easier to translate messages or target specific groups.</p>
+<p>While <a href="https://www.elon.edu/u/news/2024/05/15/ai-and-politics-survey/" target="_blank">most adults are aware that AI will play a role</a> in the election, some hyperlocal, personalized campaigns may fly under the radar, Harper says.</p>
+<p>For example, someone could use data about local polling places and public phone numbers to create messages specific to you. They may send a text the night before election day saying that your polling location has changed from one spot to another, and because they have your original polling place correct, it doesn’t seem like a red flag.</p>
+<p>“If that message comes to you on WhatsApp or on your phone, it could be much more persuasive than if that message was in a political ad on a social media platform,” Harper said. “People are less familiar with the idea of getting targeted disinformation directly sent to them.”</p>
+    <h4 class="editorialSubhed">Verifying digital identities</h4>
+
+	
+<p>The deepfake video of Cox helped spur a partnership between a public university and a new tech platform with the goal of combating deepfakes in Utah elections.</p>
+<p>From July 2024, through Inauguration Day in January 2025, students and researchers at the <strong> </strong>Gary R. Herbert Institute for Public Policy and the Center for National Security Studies at Utah Valley University will work with SureMark Digital. Together, they’ll verify digital identities of politicians to study the impact AI-generated content has on elections.</p>
+<p>Through the pilot program, candidates seeking one of Utah’s four congressional seats and the open senate seat will be able to authenticate their digital identities at no cost through SureMark’s platform, with the goal of increasing trust in Utah’s elections.</p>
+<p>Brandon Amacher, director of the Emerging Tech Policy Lab at UVU, said he sees AI playing a similar role in this election as the emergence of social media did in the 2008 election — influential but not yet overwhelming.</p>
+<p>“I think what we’re seeing right now is the beginning of a trend which could get significantly more impactful in future elections,” Amacher said.</p>
+<p>In the first month of the pilot, Amacher said, the group has already seen how effective these simulated video messages can be, especially in short-form media like TikTok and Instagram Reels. A shorter video is easier to fake, and if someone is scrolling these platforms for an hour, a short clip of misinformation likely won’t get very much scrutiny, but it could still influence your opinion about a topic or a person.</p>
+<p>SureMark Chairman Scott Stornetta explained that the verification platform, which rolled out in the last month, allows a user to acquire a credential. Once that’s approved, the platform goes through an authorization process of all of your published content using cryptographic techniques that bind the identity of a person to the content that features them. A browser extension then identifies to users if content was published by you or an unauthorized actor.</p>
+<p>The platform was created with public figures in mind, especially politicians and journalists who are vulnerable to having their images replicated. Anyone can download the SureMark browser extension to see accredited content across different media platforms, not just those that get accredited. Stornetta likened the technology to an X-ray.</p>
+<p>“If someone sees a video or an image or listens to a podcast on a regular browser, they won’t know the difference between a real and a fake,” he said. “But if someone that has this X-ray vision sees the same documents in their browser, they can click on a button and basically find out whether it’s a green check or red X.”</p>
+<p>The pilot program is currently working to credential the state’s politicians, so it will be a few months before they start to glean results, but Justin Jones, the executive director of the Herbert Institute, said that every campaign they’ve connected with has been enthusiastic to try the technology.</p>
+<p>“All of them have said we’re concerned about this and we want to know more,” Jones said.</p>
+    <h4 class="editorialSubhed">What’s the motivation behind misinformation?</h4>
+
+	
+<p>Lots of different groups with varying motivations can be behind misinformation campaigns, Michael Kaiser, CEO of Defending Digital Campaigns, told States Newsroom.</p>
+<p>There is sometimes misinformation directed at specific candidates, like in the case of Governors Cox and DeSantis’ deepfake videos. Campaigns around geopolitical events, like wars, are also common to sway public opinion.</p>
+<p>Russia’s influence on the 2016 and 2020 elections is well-documented, and efforts will likely continue in 2024, with a goal of undermining U,S, support of Ukraine, <a href="https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/04/MTAC-Report-Elections-Report-Nation-states-engage-in-US-focused-influence-operations-ahead-of-US-presidential-election-04172024.pdf" target="_blank">a Microsoft study</a> recently reported.</p>
+<p>There’s sometimes a monetary motivation to misinformation, Amacher said, as provocative, viral content can turn into payouts on platforms that pay users for views.</p>
+<p>Kaiser, whose work focuses on providing cybersecurity tools to campaigns, said that while interference in elections is sometimes the goal, more commonly, these people are trying to cause a general sense of chaos and apathy toward the elections process.</p>
+<p>“They’re trying to divide us at another level,” he said. “For some bad actors, the misinformation and disinformation is not about how you vote. It’s just that we’re divided.”</p>
+<p>It’s why much of the AI-generated content is inflammatory or plays on your emotions, Kaiser said.</p>
+<p>“They’re trying to make you apathetic, trying to make you angry, so maybe you’re like, ‘I can’t believe this, I’m going to share it with my friends,’” he said. “So you become the platform for misinformation and disinformation.”</p>
+    <h4 class="editorialSubhed">Strategies for stopping the spread of misinformation</h4>
+
+	
+<p>Understanding that emotional response and eagerness to share or engage with the content is a key tool to slowing the spread of misinformation. If you’re in that moment, there’s a few things you can do, the experts said.</p>
+<p>First, try to find out if an image or sound bite you’re viewing has been reported elsewhere. You can use reverse image search on Google to see if that image is found on reputable sites, or if it’s only being shared by social media accounts that appear to be bots. Websites that fact check manufactured or altered images may point you to where the information originated, Kaiser said.</p>
+<p>If you’re receiving messages about election day or voting, double check the information online through your state’s voting resources, he added.</p>
+<p>Adding two-factor authentication on social media profiles and email accounts can help ward off phishing attacks and hacking, which can be used to spread  misinformation, Harper said.</p>
+<p>If you get a phone call you suspect may be AI-generated, or is using someone’s voice likeness, it’s good to confirm that person’s identity by asking about the last time you spoke.</p>
+<p>Harper also said that there’s a few giveaways to look out for with AI-generated images, like an extra finger or distorted ear or hairline. AI has a hard time rendering some of those finer details, Harper said.</p>
+<p>Another visual clue, Amacher said, is that deepfake videos often feature a blank background, because busy surroundings are harder to simulate.</p>
+<p>And finally, the closer we are to the election, the likelier you are to see misinformation, Kaiser said. Bad actors use proximity to the election to their advantage — the closer you are to election day, the less time your misinformation has to be debunked.</p>
+<p>Technologists themselves can take some of the onus of misinformation in the way they build AI, Harper said. He recently published <a href="https://cdt.org/insights/brief-election-integrity-recommendations-for-generative-ai-developers/" target="_blank">a summary of recommendations for AI developers </a>with suggestions for best practices.</p>
+<p>The recommendations included refraining from releasing text-to-speech tools that allow users to replicate the voices of real people, refraining from the generation of realistic images and videos of political figures and prohibiting the use of generative AI tools for political ads.</p>
+<p>Harper suggests that AI tools disclose how often a chatbot’s training data is updated relating to election information, develop machine-readable watermarks for content and promote authoritative sources of election information.</p>
+<p>Some tech companies already voluntarily follow many of these transparency best practices, but much of the country is following a “patchwork” of laws that haven’t developed at the speed of the technology itself.</p>
+<p>A <a href="https://www.congress.gov/bill/118th-congress/senate-bill/2770#:~:text=The%20bill%20generally%20prohibits%20individuals,or%20(2)%20solicit%20funds." target="_blank">bill prohibiting the use of deceptive AI-generated </a>audio or visual media of a federal candidate was introduced in congress last year, but it has not been enacted. Laws focusing on AI in elections <a href="https://www.newsfromthestates.com/article/states-strike-out-their-own-ai-privacy-regulation" target="_blank">have been passed on a state level</a> in the last two years, though, and primarily either ban messaging and images created by AI or at least require specific disclaimers about the use of AI in campaign materials.</p>
+<p>But for now, these young tech companies that want to do their part in stopping or slowing the spread of misinformation can seek some direction from the CDT report or pilot programs like UVU’s.</p>
+<p>“We wanted to take a stab at creating a kind of a comprehensive election integrity program for these companies,” Harper said. “understanding that unlike the kind of legacy social media companies, they’re very new and quite young and have no time or kind of the regulatory scrutiny required to have created strong election integrity policies in a more systematic way.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>States strike out on their own on AI, privacy regulation</title>
+		<link>https://virginiamercury.com/2024/07/23/states-strike-out-on-their-own-on-ai-privacy-regulation/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Tue, 23 Jul 2024 09:29:40 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=39359</guid>
+
+					<description><![CDATA[As congressional sessions have passed without any new federal artificial intelligence laws, state legislators are striking out on their own to regulate the technologies in the meantime. Colorado just signed into effect one of the most sweeping regulatory laws in the country, which sets guardrails for companies that develop and use AI. Its focus is mitigating consumer [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="681" src="https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen.png" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen.png 1024w, https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen-300x200.png 300w, https://virginiamercury.com/wp-content/uploads/2024/07/ChatGPT-screen-768x511.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">The welcome screen for the OpenAI “ChatGPT” app is displayed on a laptop screen in a photo illustration. In the absence of federal action, states are increasingly striking out on their own to regulate artificial intelligence and other automated systems. (Leon Neal/Getty Images)</p><p>As congressional sessions have passed without any new federal artificial intelligence laws, state legislators are striking out on their own to regulate the technologies in the meantime.</p>
+<p>Colorado just <a href="https://coloradonewsline.com/briefs/colorado-first-state-artificial-intelligence-regulations/" target="_blank">signed into effect</a> one of the most sweeping regulatory laws in the country, which sets guardrails for companies that develop and use AI. Its focus is mitigating consumer harm and discrimination by AI systems, and Gov. Jared Polis, a Democrat, said he hopes the conversations will continue on the state and federal level.</p>
+<p>Other states, <a href="https://sourcenm.com/2024/03/20/how-nm-will-enforce-the-new-deepfake-disclosure-law/" target="_blank">like New Mexico</a>, have focused on regulating how computer generated images can appear in media and political campaigns. Some,<a href="https://www.legis.iowa.gov/legislation/BillBook?ga=90&amp;ba=HF2240" target="_blank"> like Iowa</a>, have criminalized sexually charged computer-generated images, especially when they portray children.</p>
+<p>“We can’t just sit and wait,” Delaware state Rep. Krista Griffith, D-Wilmington, who has sponsored AI regulation, told States Newsroom. “These are issues that our constituents are demanding protections on, rightfully so.”</p>
+<p>Griffith is the sponsor of the <a href="https://legis.delaware.gov/BillDetail?LegislationId=140388" target="_blank">Delaware Personal Data Privacy Act</a>, which was signed last year, and will take effect on Jan. 1, 2025. The law will give residents the right to know what information is being collected by companies, correct any inaccuracies in data or request to have that data deleted. The bill is similar to other state laws around the country that address how personal data can be used.</p>
+<p>There’s been no shortage of tech regulation bills in Congress, but none have passed. The <a href="https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker" target="_blank">118th Congress saw bills</a> relating to imposing restrictions on artificial intelligence models that are deemed high risk, creating regulatory authorities to oversee AI development, imposing transparency requirements on evolving technologies and protecting consumers through liability measures.</p>
+<p>In April, a new draft of the <a href="https://www.commerce.senate.gov/services/files/E7D2864C-64C3-49D3-BC1E-6AB41DE863F5#:~:text=The%20Act%20would%20prohibit%20the,against%20violations%20of%20the%20Act." target="_blank">American Privacy Rights act of 2024 </a>was introduced, and in May, the Bipartisan Senate Artificial Intelligence Working Group released a <a href="https://www.schumer.senate.gov/imo/media/doc/Roadmap_Electronic1.32pm.pdf" target="_blank">roadmap for AI policy </a>which aims to support federal investment in AI while safeguarding the risks of the technology.</p>
+<p>Griffith also introduced a bill this year to create the Delaware Artificial Intelligence Commission, and said that if the state stands idly by, they’ll fall behind on these already quickly evolving technologies.</p>
+<p>“The longer we wait, the more behind we are in understanding how it’s being utilized, stopping or preventing potential damage from happening, or even not being able to harness some of the efficiency that comes with it that might help government services and might help individuals live better lives,” Griffith said.</p>
+<p>States have been legislating about AI <a href="https://oklahomavoice.com/2023/10/20/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/" target="_blank">since at least 2019</a>, but bills relating to AI have increased significantly in the last two years. From January through June of this year, there have been <a href="https://www.newsfromthestates.com/article/firehose-information-confronts-legislators-studying-internet-use-children-and-ai" target="_blank">more than 300 introduced</a>, said Heather Morton, who tracks state legislation as an analyst for the nonpartisan National Conference of State Legislatures.</p>
+<p>Also so far this year, 11 new states have enacted laws about how to use, regulate or place checks and balances on AI, bringing the total to 28 states with AI legislation.</p>
+<p><strong>How are everyday people interacting with AI?</strong></p>
+<p>Technologists have been experimenting with decision-making algorithms for decades — early frameworks date back to the 1950s. But generative AI, which can generate images, language, and responses to prompts in seconds, is what’s driven the industry in the last few years.</p>
+<p>Many Americans have been interacting with artificial intelligence their whole lives, and industries like banking, marketing and entertainment have built much of their modern business practices upon AI systems. These technologies have become the backbone of huge developments like power grids and space exploration.</p>
+<p>Most people are more aware of their smaller uses, like a company’s online customer service chatbot or asking their Alexa or Google Assistant devices for information about the weather.</p>
+<p>Rachel Wright, a policy analyst for the Council of State Governments, pinpointed a potential turning point in the public consciousness of AI, which may have <a href="https://stateline.org/2023/10/05/what-is-artificial-intelligence-legislators-are-still-looking-for-a-definition/" data-type="link" data-id="https://stateline.org/2023/10/05/what-is-artificial-intelligence-legislators-are-still-looking-for-a-definition/" target="_blank">added urgency for legislators to act</a>.</p>
+<p>“I think 2022 is a big year because of ChatGPT,” Wright said. “It was kind of the first point in which members of the public were really interacting with an AI system or a generative AI system, like ChatGPT, for the first time.”</p>
+<p><strong>Competing interests: Industry vs privacy </strong></p>
+<p>Andrew Gamino-Cheong cofounded AI governance management platform Trustible early last year as the states began to pump out legislation. The platform helps organizations identify risky uses of AI and comply with regulations that have already been put in place.</p>
+<p>Both state and federal legislators understand the risk in passing new AI laws: too many regulations on AI can be seen as stifling innovation, while unchecked AI could raise privacy problems or perpetuate discrimination.</p>
+<p>Colorado’s law is an example of this — it applies to developers on “high-risk” systems which make consequential decisions relating to hiring, banking and housing. It says these developers have a responsibility to avoid creating algorithms that could have biases against certain groups or traits. The law dictates that instances of this “algorithmic discrimination” need to be reported to the attorney general’s office.</p>
+<p>At the time, Logan Cerkovnik, the founder and CEO of Denver-based Thumper.ai, <a href="https://coloradonewsline.com/briefs/colorado-first-state-artificial-intelligence-regulations/" target="_blank">called the bill </a>“wide-reaching” but well-intentioned, saying his developers will have to think about how the major social changes in the bill are supposed to work.</p>
+<p>“Are we shifting from actual discrimination to the risk of discrimination before it happens?” he added.</p>
+<p>But Delaware’s Rep. Griffith said that these life-changing decisions, like getting approved for a mortgage, should be transparent and traceable. If she’s denied a mortgage due to a mistake in an algorithm, how could she appeal?</p>
+<p>“I think that also helps us understand where the technology is going wrong,” she said. “We need to know where it’s going right, but we also have to understand where it’s going wrong.”</p>
+<p>Some who work in the development of big tech see federal or state regulations of AI as potentially stifling to innovation. But Gamino-Cheong said he actually thinks some of this “patchwork” legislation by states could create pressure  for some clear federal action from lawmakers who see AI as a huge growth area for the U.S.</p>
+<p>“I think that’s one area where the privacy and AI discussions could diverge a little bit, that there’s a competitive, even national security angle, to investing in AI,” he said.</p>
+<p><strong>How are states regulating AI? </strong></p>
+<p>Wright published research late last year on <a href="https://www.csg.org/2023/12/06/artificial-intelligence-in-the-states-emerging-legislation/" target="_blank">AI’s role in the states</a>, categorizing the approaches states were using to create protections around the technology. Many of the 29 laws enacted at that point focused on creating avenues for stakeholder groups to meet and collaborate on how to use and regulate AI. Others recognize possible innovations enabled by AI, but regulate data privacy.</p>
+<p>Transparency, protection from discrimination and accountability are other major themes in the states’ legislation. Since the start of 2024, laws that touch on the use of AI in political campaigns, schooling, crime data, sexual offenses and deepfakes — convincing computer-generated likenesses – have been passed, broadening the scope in how a law can regulate AI. Now, 28 states have passed nearly 60 laws.</p>
+<p>Here’s a look at where legislation stands in July 2024, in broad categorization:</p>
+<p><strong>Interdisciplinary collaboration and oversight</strong></p>
+<p>Many states have enacted laws that bring together lawmakers, tech industry professionals, academics and business owners to oversee and consult on the design, development and use of AI. Sometimes in the form of councils or working groups, they are often on the lookout for unintended, yet foreseeable, impacts of unsafe or ineffective AI systems. This includes Alabama (<a href="https://legiscan.com/AL/bill/SB78/2021" target="_blank">SB 78</a>), Illinois (<a href="https://www.ilga.gov/legislation/BillStatus.asp?DocNum=3563&amp;GAID=17&amp;DocTypeID=HB&amp;SessionID=112&amp;GA=103" target="_blank">HB 3563</a>), Indiana (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:IN2024000S150&amp;verid=IN2024000S150_20240313_0_EF&amp;" target="_blank">S 150</a>), New York (<a href="https://www.nysenate.gov/legislation/bills/2023/A4969" target="_blank">AB A4969</a>, <a href="https://www.nysenate.gov/legislation/bills/2019/S3971#:~:text=2019-S3971%20-%20Summary,automation;%20and%20repeals%20such%20commission." target="_blank">SB S3971B</a> and <a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:NY2023000A8808&amp;verid=NY2023000A8808_20240418_0_A&amp;" target="_blank">A 8808</a>), Texas (<a href="https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&amp;Bill=HB2060" target="_blank">HB 2060</a>, 2023), Vermont (<a href="https://legislature.vermont.gov/Documents/2018/Docs/ACTS/ACT137/ACT137%20As%20Enacted.pdf" target="_blank">HB 378</a> and <a href="https://legislature.vermont.gov/bill/status/2022/H.410" target="_blank">HB 410</a>), California (<a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB302" target="_blank">AB 302</a>), Louisiana (<a href="https://www.legis.la.gov/legis/BillInfo.aspx?s=23rs&amp;b=SCR49&amp;sbi=y" target="_blank">SCR 49</a>), Oregon (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:OR2024000H4153&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">H 4153</a>), Colorado (<a href="https://coloradonewsline.com/briefs/colorado-first-state-artificial-intelligence-regulations/" target="_blank">SB 24-205</a>), Louisiana (<a href="https://www.legis.la.gov/legis/BillInfo.aspx?s=23rs&amp;b=SCR49&amp;sbi=y" target="_blank">SCR 49</a>), Maryland (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:MD2024000S818&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">S 818</a>), Tennessee (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:TN2023000H2325&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">H 2325</a>), Texas (<a href="https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&amp;Bill=HB2060" target="_blank">HB 2060</a>), Virginia (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:VA2024000S487&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">S 487</a>), Wisconsin (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:WA2023000S5838&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">S 5838</a>) and West Virginia (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:WV2024000H5690&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">H 5690</a>).</p>
+<blockquote class="wp-embedded-content" data-secret="FFXN28jJI5"><p><a href="https://virginiamercury.com/2024/02/05/virginia-legislators-should-be-learning-all-they-can-about-ai/">Virginia legislators should be learning all they can about AI</a></p></blockquote>
+<p><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Virginia legislators should be learning all they can about AI&#8221; &#8212; Virginia Mercury" src="https://virginiamercury.com/2024/02/05/virginia-legislators-should-be-learning-all-they-can-about-ai/embed/#?secret=pTCn5lQoLY#?secret=FFXN28jJI5" data-secret="FFXN28jJI5" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><strong>Data Privacy</strong></p>
+<p>Second most common are laws that look at data privacy and protect individuals from misuse of consumer data. Commonly, these laws create regulations about how AI systems can collect data and what it can do with it. These states include California (<a href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&amp;part=4.&amp;lawCode=CIV&amp;title=1.81.5" target="_blank">AB 375</a>), Colorado (<a href="https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf" target="_blank">SB 21-190</a>), Connecticut (<a href="https://www.cga.ct.gov/2022/ACT/PA/PDF/2022PA-00015-R00SB-00006-PA.PDF" target="_blank">SB 6</a> and <a href="https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&amp;bill_num=SB01103&amp;which_year=2023" target="_blank">SB 1103</a>), Delaware (<a href="https://legis.delaware.gov/BillDetail?LegislationId=140388" target="_blank">HB 154</a>), Indiana (<a href="https://iga.in.gov/legislative/2023/bills/senate/5/details" target="_blank">SB 5</a>), Iowa (<a href="https://www.legis.iowa.gov/legislation/BillBook?ga=90&amp;ba=SF262" target="_blank">SF 262</a>), Montana (<a href="https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf" target="_blank">SB 384</a>), Oregon (<a href="https://olis.oregonlegislature.gov/liz/2023R1/Measures/Overview/SB619" target="_blank">SB 619</a>), Tennessee (<a href="https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0073" target="_blank">HB 1181</a>), Texas (<a href="https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&amp;Bill=HB4" target="_blank">HB 4</a>), Utah (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:UT2024000S149&amp;verid=UT2024000S149_20240313_0_E&amp;" target="_blank">S 149</a>) and Virginia (<a href="https://lis.virginia.gov/cgi-bin/legp604.exe?211+sum+SB1392" target="_blank">SB 1392</a>).</p>
+<p><strong>Transparency </strong></p>
+<p>Some states have enacted laws that inform people that AI is being used. This is most commonly done by requiring businesses to disclose when and how it’s in use. For example, an employer may have to get permission from employees to use an AI system that collects data about them. These states have transparency laws: California (<a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1001" target="_blank">SB 1001</a>), Florida (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:FL2024000S1680&amp;verid=FL2024000S1680_20240426_0_EI&amp;" target="_blank">S 1680</a>), Illinois (<a href="https://www.ilga.gov/legislation/BillStatus.asp?DocNum=2557&amp;GAID=15&amp;DocTypeID=HB&amp;SessionID=108&amp;GA=101" target="_blank">HB 2557</a>), and Maryland (<a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1202?ys=2020RS" target="_blank">HB 1202</a>).</p>
+<p><strong>Protection from discrimination </strong></p>
+<p>These laws often require that AI systems are designed with equity in mind, and avoid “algorithmic discrimination,” where an AI system can contribute to different treatment of people based on race, ethnicity, sex, religion or disability, among other things. Often these laws play out in the criminal justice system, in hiring, in banking or other positions where a computer algorithm is making life-changing decisions. This includes California (<a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB36" target="_blank">SB 36</a>), Colorado (<a href="https://leg.colorado.gov/bills/sb21-169" target="_blank">SB 21-169</a>), Illinois (<a href="https://www.ilga.gov/legislation/BillStatus.asp?DocNum=53&amp;GAID=16&amp;DocTypeID=HB&amp;LegId=127865&amp;SessionID=110&amp;GA=102" target="_blank">HB 0053</a>), and Utah (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:UT2024000H366&amp;verid=UT2024000H366_20240313_0_E&amp;" target="_blank">H 366</a>).</p>
+<p><strong>Elections </strong></p>
+<p>Laws focusing on AI in elections have been passed in the last two years, and primarily either ban messaging and images created by AI or at least require specific disclaimers about the use of AI in campaign materials. This includes Alabama (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:AL2024000H172&amp;verid=AL2024000H172_20240515_0_E&amp;" target="_blank">HB 172</a>), Arizona (<a href="https://www.azleg.gov/legtext/56leg/2R/bills/HB2394H.pdf" target="_blank">HB 2394</a>), Idaho (<a href="https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/legislation/H0664.pdf" target="_blank">HB 664</a>), Florida (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:FL2024000H919&amp;verid=FL2024000H919_20240426_0_EI&amp;" target="_blank">HB 919</a>), New Mexico (<a href="https://sourcenm.com/2024/03/20/how-nm-will-enforce-the-new-deepfake-disclosure-law/" target="_blank">HB 182</a>), Oregon (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:OR2024000S1571&amp;verid=OR2024000S1571_20240327_0_EF&amp;" target="_blank">SB 1571</a>), Utah (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:UT2024000S131&amp;verid=UT2024000S131_20240313_0_E&amp;" target="_blank">SB 131</a>), and Wisconsin (<a href="https://wisconsinexaminer.com/2024/03/22/evers-takes-action-on-election-related-measures-including-ai-and-poll-closures/" target="_blank">SB 664</a>).</p>
+<p><strong>Schools</strong></p>
+<p>States that have passed laws relating to AI in education mainly provide requirements for the use of AI tools. Florida (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:FL2024000H1361&amp;verid=FL2024000H1361_20240509_0_EI&amp;" target="_blank">HB 1361</a>) outlines how tools may be used to customize and accelerate learning, and Tennessee (<a href="http://custom.statenet.com/public/resources.cgi?id=ID:bill:TN2023000S1711&amp;cuiq=93d84396-c63b-526a-b152-38b7f79b4cfd&amp;client_md=e4f6fea4-27b4-5d41-b7d3-766fe52569f0" target="_blank">S 1711</a>) instructs schools to create an AI policy for the 2024-25 school year which describes how the board will enforce its policy.</p>
+<p><strong>Computer-generated sexual images </strong></p>
+<p>The states which have passed laws about computer-generated explicit images criminalize the creation of sexually explicit images of children with the use of AI. These include Iowa (<a href="https://www.legis.iowa.gov/legislation/BillBook?ga=90&amp;ba=HF2240" target="_blank">HF 2240)</a> and South Dakota (<a href="https://custom.statenet.com/public/resources.cgi?mode=show_text&amp;id=ID:bill:SD2024000S79&amp;verid=SD2024000S79_20240212_0_E&amp;" target="_blank">S 79</a>).</p>
+<p><strong>Looking forward</strong></p>
+<p>While most of the AI laws enacted have focused on protecting users from the harms of AI, many legislators are also excited by its potential.</p>
+<p>A recent study by the <a href="https://www.weforum.org/publications/the-future-of-jobs-report-2020/in-full/executive-summary/" target="_blank">World Economic Forum</a> has found that artificial intelligence technologies could lead to the creation of about 97 million new jobs worldwide by 2025, outpacing the approximately 85 million jobs displaced to technology or machines.</p>
+<p>Rep. Griffith is looking forward to digging more into the technologies’ capabilities in a working group, saying it’s challenging to legislate about technology that changes so rapidly, but it’s also fun.</p>
+<p>“Sometimes the tendency when something’s complicated or challenging or difficult to understand is like, you just want to run and stick your head under the blanket,” she said. “But it’s like, everybody stop. Let’s look at it, let’s understand it, let’s read about it. Let’s have an honest discussion about how it’s being utilized and how it’s helping.”</p>
+        <a href="https://virginiamercury.com/subscribe" style="text-decoration:none;">
+        <div class="subscribeShortcodeContainer">
+            <div class="subscribeTextContainer">
+                <i class="fas fa-envelope"></i>
+                <p>GET THE MORNING HEADLINES.</p>
+            </div>
+            <div class="subscribeButtonContainer">
+                <button>SUBSCRIBE</button>
+            </div>
+        </div>
+        </a>
+        
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IT glitch caused delays in flights, business operations in Virginia and across the globe</title>
+		<link>https://virginiamercury.com/2024/07/19/it-glitch-causing-delays-in-flights-business-operations-in-virginia-and-across-the-globe/</link>
+		
+		<dc:creator><![CDATA[Paige Gross]]></dc:creator>
+
+        <dc:contributor>pgross@statesnewsroom.com (Paige Gross)</dc:contributor>
+
+		<pubDate>Fri, 19 Jul 2024 17:51:23 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[Gov. Glenn Youngkin]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Public transportation]]></category>
+		<category><![CDATA[Richmond International Airport]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://virginiamercury.com/?p=39355</guid>
+
+					<description><![CDATA[Air travel, banking, media and hospital systems were just some of the industries affected by a bug in a software update that scrambled business operations for many globally on Friday. Many of those who use Microsoft Windows likely experienced a “blue screen of death” or an error page. The issue was due to a single [&#8230;]]]></description>
+																						<content:encoded><![CDATA[<img width="1024" height="683" src="https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 10px;" decoding="async" loading="lazy" srcset="https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-1024x683.jpg 1024w, https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-300x200.jpg 300w, https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-768x512.jpg 768w, https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-1536x1024.jpg 1536w, https://virginiamercury.com/wp-content/uploads/2024/04/GettyImages-1455760950-2048x1366.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p style="font-size:12px;">A significant Microsoft outage on July 19, 2024 impacted users globally, leading to widespread disruptions, including cancelled flights and disruptions at retailers globally. Airlines like American Airlines and Southwest Airlines reported difficulties with their systems, which rely on Microsoft services for operations. This photo shows flight delays on a flight information board at Ronald Reagan Washington National Airport on Jan. 11, 2023 in Arlington, Virginia. (Photo by Alex Wong/Getty Images)</p><p>Air travel, banking, media and hospital systems were just some of the industries affected by a bug in a software update that scrambled business operations for many globally on Friday.</p>
+<p>Many of those who use Microsoft Windows likely experienced a “blue screen of death” or an error page. The issue was due to a single bug in a software update from cybersecurity company CrowdStrike, which provides antivirus software for Microsoft users.</p>
+<p>The company pushed out an update to the software overnight, and at 1:30 a.m. EST, CrowdStrike said its “Falcon Sensor” software was causing Microsoft Windows to crash and display a blue screen, <a href="https://www.reuters.com/technology/global-cyber-outage-grounds-flights-hits-media-financial-telecoms-2024-07-19/" target="_blank">Reuters reported</a>.</p>
+<p>CrowdStrike President and CEO George Kurtz released a statement early Friday morning<a href="https://x.com/George_Kurtz/status/1814235001745027317" target="_blank"> on X</a>, saying that the incident was not a security concern or a cyberattack. He added that the issue had been identified and that the company had been deploying a fix.</p>
+<p>“We refer customers to the support portal for the latest updates and will continue to provide complete and continuous updates on our website,” Kurtz said.</p>
+<p>The bug was causing major delays and cancellations at airports across the globe. Flight tracking data site <a href="https://www.flightaware.com/live/cancelled" target="_blank">FlightAware </a>noted nearly 24,000 delays and 2,300 cancellations globally by 9:30 a.m. Friday. While some airlines were able to resume operation of their digital systems, others found analogue solutions.</p>
+<p>The U.S. Department of Transportation said it was monitoring the situation and suggested those experiencing travel delays and cancellations to use its <a href="http://flightrights.gov/" target="_blank">FlightRights.gov</a> website to help navigate their delays in travel.</p>
+<p>Some states’ 911 and non-emergency lines were experiencing issues, including <a href="https://www.alaskasnewssource.com/2024/07/19/alaska-experiencing-statewide-911-outage/" target="_blank">Alaska</a>, <a href="https://wjla.com/news/local/microsoft-global-outage-metro-service-dc-virginia-maryland-fairfax-county-systems-down-impacts-it-tech-airports-dulles-regean-dca-iad-airlines-banks-media-reporting-issues-widespread-911-call-centers-police-fire-ems" target="_blank">Virginia</a> and <a href="https://www.nj.gov/governor/news/news/562024/approved/20240719a.shtml" target="_blank">New Jersey</a>.</p>
+<p><span style="font-weight: 400;">The major tech snafu reverberated throughout Virginia, where 30% of Friday&#8217;s flights at </span><a href="https://x.com/Flack4RIC/status/1814338132315087125" target="_blank"><span style="font-weight: 400;">Richmond International Airport </span></a><span style="font-weight: 400;">were canceled or delayed. At Dulles Airport in Northern Virginia, multiple airlines reported system outages &#8220;that are impacting flight operations,&#8221; according to a </span><a href="https://x.com/Dulles_Airport/status/1814231358241218935" target="_blank"><span style="font-weight: 400;">tweet</span></a><span style="font-weight: 400;"> posted on the airport&#8217;s X account Friday. Metro&#8217;s website and some internal services were down Friday morning, as well as the MetroAccess call center. Various </span><a href="https://wjla.com/news/local/microsoft-global-outage-metro-service-dc-virginia-maryland-fairfax-county-systems-down-impacts-it-tech-airports-dulles-regean-dca-iad-airlines-banks-media-reporting-issues-widespread-911-call-centers-police-fire-ems" target="_blank"><span style="font-weight: 400;">hospitals</span></a><span style="font-weight: 400;">, businesses and emergency services across the commonwealth were also impacted.</span></p>
+<p><span style="font-weight: 400;">Virginia Gov. Glenn Youngkin released a statement on Friday morning that said the state assessed how the tech outages were unfolding in Virginia and found that &#8220;government administrative functions are experiencing disruptions, and we are coordinating with local, regional and federal authorities and private sector critical infrastructure partners in order to reestablish normal operations.&#8221; The governor asked the public to be patient amid delays as officials work to resolve the problems.</span></p>
+<p>New Jersey Governor Phil Murphy released a statement early Friday morning saying that the state had activated its State Emergency Operations Center in response to the disruptions and has provided guidance to other agencies about how to work through the situation.</p>
+<p>“We are also engaging county and local governments, 911 call centers, and utilities to assess the impact and offer our assistance.,” he said.</p>
+<p>Microsoft released <a href="https://x.com/MSFT365Status/status/1814251159537729592?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1814251159537729592%7Ctwgr%5E5f8cc315987d34735a3ace896336faf95a49a44f%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2F6abc.com%2Fpost%2Fhow-global-outage-is-impacting-services-philadelphia%2F15070804%2F" target="_blank">a trouble shooting guide</a> on X early Friday morning.</p>
+<p>By 10 a.m. Friday, some global companies were seeing relief in their outages. <a href="https://downdetector.com/" target="_blank">Downdetector</a>, which tracks real-time outages, showed companies like Visa, Zoom, UPS and Southwest Airlines gaining more normal operations than they were experiencing in the early morning hours.</p>
+<p>Speaking to the hosts of Today this morning, Kurtz said he was “deeply sorry for the impact we’ve caused to customers, to travelers, to anyone affected.” He said some customers have been able to reboot and are seeing progress getting online, and that trend will likely continue throughout the day.</p>
+<p>Effects from the global IT outage Friday continued to be felt throughout the day, especially by government systems and transportation hubs.</p>
+<p>Courts in Massachusetts and New York experienced disrupted service, as court transcription recording systems were not operational in some Massachusetts courthouses, <a class="c-link" href="https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime" target="_blank" rel="noopener noreferrer" data-stringify-link="https://apnews.com/live/internet-global-outage-crowdstrike-microsoft-downtime" data-sk="tooltip_parent">the Associated Press reported.</a></p>
+<p>The Texas Department of Public Safety, which runs its driver’s license offices, also closed their offices for the day, with “no current estimate” on when they will reopen.</p>
+<p>Around 4 p.m. EST, Kurtz released more statements on X, reiterating that the outage was not a security breach.</p>
+<p>“We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption,” he said. “We are working with all impacted customers to ensure that systems are back up and they can deliver the services their customers are counting on.”</p>
+<p>Kurtz said the company is working on a “technical update and root cause analysis” that they will share with customers, and shared <a class="c-link" href="https://www.crowdstrike.com/blog/our-statement-on-todays-outage/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.crowdstrike.com/blog/our-statement-on-todays-outage/" data-sk="tooltip_parent">a letter </a>that was sent to customers and partners.</p>
+<p>“We know that adversaries and bad actors will try to exploit events like this. I encourage everyone to remain vigilant and ensure that you’re engaging with official CrowdStrike representatives. Our blog and technical support will continue to be the official channels for the latest updates,” it said. “Nothing is more important to me than the trust and confidence that our customers and partners have put into CrowdStrike. As we resolve this incident, you have my commitment to provide full transparency on how this occurred and steps we’re taking to prevent anything like this from happening again,” it continued.</p>
+<p><em>Virginia Mercury Editor Samantha Willis contributed to this story. </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
